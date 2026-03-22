@@ -1,0 +1,1954 @@
+[
+  {
+    "ID": "ahs",
+    "name": "AHS (Sweden)",
+    "country": "Sweden",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ahs_default",
+      "ahs_aim_9",
+      "ahs_stinger",
+      "ahs_hydra_70_m247",
+      "ahs_8_hellfire",
+      "ahs_16_hellfire",
+      "ahs_4_hellfire_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ahs.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "hkp9a_cb3_fc",
+    "name": "HKP9A (FC) (Sweden)",
+    "country": "Sweden",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "hkp9a_cb3_fc_default",
+      "hkp9a_cb3_fc_rb55c_ffv_uni_pod",
+      "hkp9a_cb3_fc_ffv_uni_pod"
+    ],
+    "ammo_amount": 9999,
+    "image": "hkp9a_cb3_fc.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "lynx_ah_mk1",
+    "name": "Lynx AH.Mk.1 (Great Britain)",
+    "country": "Great Britain",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "lynx_ah_mk1_default",
+      "lynx_ah_mk1_4_stinger",
+      "lynx_ah_mk1_hydra_70_m229",
+      "lynx_ah_mk1_2_TOW_default",
+      "lynx_ah_mk1_4_TOW",
+      "lynx_ah_mk1_8_TOW",
+      "lynx_ah_mk1_4_TOW2",
+      "lynx_ah_mk1_8_TOW2",
+      "lynx_ah_mk1_4_hellfire",
+      "lynx_ah_mk1_8_hellfire",
+      "lynx_ah_mk1_cannon",
+      "lynx_ah_mk1_8_hellfire_cannon"
+    ],
+    "ammo_amount": 9999,
+    "image": "lynx_ah_mk1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_mk1",
+    "name": "AH Mk.1 Apache (Great Britain)",
+    "country": "Great Britain",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_mk1_default",
+      "ah_mk1_starstreak",
+      "ah_mk1_hydra_70_m247",
+      "ah_mk1_rocket_4_hellfire",
+      "ah_mk1_8_hellfire",
+      "ah_mk1_16_hellfire",
+      "ah_64d_ltc_amase"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_mk1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "g_lynx",
+    "name": "G-LYNX (Great Britain)",
+    "country": "Great Britain",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "g_lynx_default",
+      "g_lynx_4_stinger",
+      "g_lynx_4_hellfire",
+      "g_lynx_8_hellfire",
+      "g_lynx_4_TOW",
+      "g_lynx_8_TOW",
+      "g_lynx_cannon",
+      "g_lynx_8_hellfire_cannon_stinger"
+    ],
+    "ammo_amount": 9999,
+    "image": "g_lynx.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_2_rooivalk",
+    "name": "Rooivalk Mk1F CSH (Great Britain)",
+    "country": "Great Britain",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_2_rooivalk_default",
+      "ah_2_rooivalk_mistral",
+      "ah_2_rooivalk_rocket_mistral",
+      "ah_2_rooivalk_mokopa",
+      "ah_2_rooivalk_mokopa_mistral",
+      "ah_2_rooivalk_rocket_mokopa_mistral"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_2_rooivalk.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1w_china",
+    "name": "AH-1W (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1w_default",
+      "ah_1w_aim_9",
+      "ah_1w_rocket",
+      "ah_1w_rocket_zuni",
+      "ah_1w_rocket_4xTOW",
+      "ah_1w_rocket_8xTOW",
+      "ah_1w_rocket_4x_hellfire",
+      "ah_1w_rocket_8x_hellfire",
+      "ah_1w_gpu_2a"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1w_china.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "h_34_france",
+    "name": "H-34 (France)",
+    "country": "France",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "h_34_default",
+      "h_34_fr_v1"
+    ],
+    "ammo_amount": 9999,
+    "image": "h_34_france.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "iar_316b",
+    "name": "IAR 316B (France)",
+    "country": "France",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "iar_316b_default",
+      "iar_316b_lpr",
+      "iar_316b_ro_57",
+      "iar_316b_9m14"
+    ],
+    "ammo_amount": 9999,
+    "image": "iar_316b.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "bo_105pah1",
+    "name": "BO 105 PAH-1 (Germany)",
+    "country": "Germany",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "bo_105pah1_default",
+      "bo_105pah1_gun_pod_rmp",
+      "bo_105pah1_gun_pod_hmp400",
+      "bo_105pah1_ltc"
+    ],
+    "ammo_amount": 9999,
+    "image": "bo_105pah1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "bo_105pah1_a1",
+    "name": "BO 105 PAH-1A1 (Germany)",
+    "country": "Germany",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "bo_105pah1_a1_default",
+      "bo_105pah1_gun_pod_rmp",
+      "bo_105pah1_gun_pod_hmp400",
+      "bo_105pah1_ltc"
+    ],
+    "ammo_amount": 9999,
+    "image": "bo_105pah1_a1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "bo_105cb2",
+    "name": "BO 105 CB-2 (Germany)",
+    "country": "Germany",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "bo_105cb2_default",
+      "bo_105_tow_x8",
+      "bo_105_gunpods",
+      "bo_105_gr_pods",
+      "bo_105_ltc",
+      "bo_105cb2_gun_pod_ltc"
+    ],
+    "ammo_amount": 9999,
+    "image": "bo_105cb2.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1g_iaf",
+    "name": "Tzefa A (Israel)",
+    "country": "Israel",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1g_iaf_default",
+      "ah_1g_iaf_rocket_ffar",
+      "ah_1g_iaf_rocket",
+      "ah_1g_iaf_xm18",
+      "ah_1g_iaf_xm35"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1g_iaf.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1q_iaf",
+    "name": "Tzefa B (Israel)",
+    "country": "Israel",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1q_iaf_default",
+      "ah_1q_iaf_rocket_ffar",
+      "ah_1q_iaf_rocket",
+      "ah_1q_iaf_xm18",
+      "ah_1q_iaf_rocket_4xTOW",
+      "ah_1q_iaf_rocket_8xTOW"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1q_iaf.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1f_iaf",
+    "name": "Tzefa D/E (Israel)",
+    "country": "Israel",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1f_iaf_default",
+      "ah_1f_iaf_rocket_ffar",
+      "ah_1f_iaf_rocket",
+      "ah_1f_iaf_rocket_4xTOW",
+      "ah_1f_iaf_rocket_8xTOW",
+      "ah_1f_iaf_rocket_4xTOW2",
+      "ah_1f_iaf_rocket_8xTOW2"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1f_iaf.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64a_iaf",
+    "name": "Peten (Israel)",
+    "country": "Israel",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64a_iaf_default",
+      "ah_64a_iaf_hydra_70_m247",
+      "ah_64a_iaf_rocket_4_hellfire",
+      "ah_64a_iaf_rocket_8_hellfire",
+      "ah_64a_iaf_16_hellfire",
+      "ah_64a_iaf_stinger"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64a_iaf.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64d_i_saraph",
+    "name": "Saraph (Israel)",
+    "country": "Israel",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64d_i_saraph_default",
+      "ah_64d_i_saraph_hydra_70_m247",
+      "ah_64d_i_saraph_rocket_4_hellfire",
+      "ah_64d_i_saraph_8_hellfire",
+      "ah_64d_i_saraph_16_hellfire",
+      "ah_64d_i_saraph_aim92"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64d_i_saraph.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "md_500_tow_late",
+    "name": "Lahatut (Israel)",
+    "country": "Israel",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "md_500_tow_late_default",
+      "md_500_tow_late_2_tow_default",
+      "md_500_tow_late_2_tow",
+      "md_500_tow_late_2_tow2"
+    ],
+    "ammo_amount": 9999,
+    "image": "md_500_tow_late.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_60_iaf",
+    "name": "AH-60 (Israel)",
+    "country": "Israel",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_60_iaf_default",
+      "ah_60_iaf_stinger",
+      "ah_60_iaf_hydra_70_m247",
+      "ah_60_iaf_gatr",
+      "ah_60_iaf_4_hellfire",
+      "ah_60_iaf_rocket_4_hellfire",
+      "ah_60_iaf_8_hellfire",
+      "ah_60_iaf_16_hellfire",
+      "ah_60_iaf_8_spike",
+      "ah_60_iaf_16_spike"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_60_iaf.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64a_peten_iaf",
+    "name": "AH-64A Peten (Israel)",
+    "country": "Israel",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64a_default",
+      "ah_64a_stinger",
+      "ah_64a_hydra_70_m247",
+      "ah_64a_peten_8_hellfire_stinger",
+      "ah_64a_peten_16_hellfire_stinger"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64a_peten_iaf.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ab_205a_1",
+    "name": "AB 205 A-1 (Italy)",
+    "country": "Italy",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "ab_205a_1_default",
+      "ab_205a_1_xm158",
+      "ab_205a_1_xm158_xm21"
+    ],
+    "ammo_amount": 9999,
+    "image": "ab_205a_1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_24d_hungary",
+    "name": "Mi-24D (Italy)",
+    "country": "Italy",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_24d_default",
+      "mi_24d_ub32",
+      "mi_24d_s_24",
+      "mi_24d_rocket_9m17m",
+      "mi_24d_4xfab250",
+      "mi_24d_2xfab500",
+      "mi_24d_upk_23_250"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_24d_hungary.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "a_109_eoa2",
+    "name": "A.109EOA-2 (Italy)",
+    "country": "Italy",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "a_109_eoa2_default",
+      "a_109_eoa2_2xTOW_default",
+      "a_109_eoa2_4xTOW",
+      "a_109_eoa2_fn_m3p",
+      "a_109_eoa2_gun_fn_m3p_hvar"
+    ],
+    "ammo_amount": 9999,
+    "image": "a_109_eoa2.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "a_129_cbt",
+    "name": "A129CBT (Italy)",
+    "country": "Italy",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "a_129_cbt_default",
+      "a_129_cbt_rocket_ffar",
+      "a_129_cbt_hydra_70_m229",
+      "a_129_cbt_gun_fn_m3p",
+      "a_129_cbt_gun_fn_m3p_hvar",
+      "a_129_cbt_rocket_4xiTOW",
+      "a_129_cbt_rocket_4xTOW2",
+      "a_129_cbt_rocket_8xiTOW",
+      "a_129_cbt_rocket_8xTOW2",
+      "a_129_cbt_4_hellfire",
+      "a_129_cbt_8_hellfire",
+      "a_129_cbt_stinger",
+      "a_129_cbt_mistral"
+    ],
+    "ammo_amount": 9999,
+    "image": "a_129_cbt.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "a_129_d",
+    "name": "AH-129D (Italy)",
+    "country": "Italy",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "a_129_d_default",
+      "a_129_d_rocket_ffar",
+      "a_129_d_hydra_70_m229",
+      "a_129_d_gun_fn_m3p",
+      "a_129_d_gun_fn_m3p_hvar",
+      "a_129_d_4_hellfire_default",
+      "a_129_d_8_hellfire",
+      "a_129_d_4_spike",
+      "a_129_d_8_spike",
+      "a_129_d_stinger",
+      "a_129_d_mistral"
+    ],
+    "ammo_amount": 9999,
+    "image": "a_129_d.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "a_129_a",
+    "name": "A-129 International (p) (Italy)",
+    "country": "Italy",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "a_129_a_default",
+      "a_129a_rocket",
+      "a_129a_gun_fn_m3p",
+      "a_129a_gun_fn_m3p_hvar",
+      "a_129a_gun_fn_m3p_rocket",
+      "a_129a_gun_fn_m3p_hvar_rocket",
+      "a_129a_rocket_8xTOW",
+      "a_129a_8_hellfire",
+      "a_129a_gun_fn_m3p_8xTOW",
+      "a_129a_gun_fn_m3p_8_hellfire",
+      "a_129a_gun_fn_m3p_hvar_8xTOW",
+      "a_129a_gun_fn_m3p_hvar_8_hellfire",
+      "a_129a_gun_fn_m3p_hvar_rocket_TOW",
+      "a_129a_gun_fn_m3p_hvar_rocket_hellfire",
+      "a_129a_rocket_TOW",
+      "a_129a_rocket_hellfire"
+    ],
+    "ammo_amount": 9999,
+    "image": "a_129_a.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1s_early",
+    "name": "5AH-1E (Japan)",
+    "country": "Japan",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1s_default",
+      "ah_1s_rocket",
+      "ah_1s_rocket_ffar",
+      "ah_1s_early_rocket_4xTOW",
+      "ah_1s_early_rocket_8xTOW",
+      "ah_1s_xm18"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1s_early.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1s_late",
+    "name": "AH-1S (Japan)",
+    "country": "Japan",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1s_default",
+      "ah_1s_rocket",
+      "ah_1s_rocket_ffar",
+      "ah_1s_late_rocket_4xTOW",
+      "ah_1s_late_rocket_8xTOW",
+      "ah_1s_late_rocket_4xTOW2",
+      "ah_1s_late_rocket_8xTOW2",
+      "ah_1s_xm18"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1s_late.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64d_japan",
+    "name": "AH-64DJP (Japan)",
+    "country": "Japan",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64d_japan_default",
+      "ah_64d_stinger",
+      "ah_64d_japan_hydra_70_m247",
+      "ah_64d_japan_rocket_4_hellfire",
+      "ah_64d_japan_8_hellfire",
+      "ah_64d_japan_16_hellfire"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64d_japan.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1s",
+    "name": "AH-1S Kisarazu (Japan)",
+    "country": "Japan",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1s_default",
+      "ah_1s_rocket",
+      "ah_1s_rocket_ffar",
+      "ah_1s_rocket_4xTOW",
+      "ah_1s_rocket_8xTOW",
+      "ah_1s_xm18"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1s.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "hkp3c",
+    "name": "HKP3C (Sweden)",
+    "country": "Sweden",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "hkp3c_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "hkp3c.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "hkp2",
+    "name": "HKP2 (Sweden)",
+    "country": "Sweden",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "hkp2_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "hkp2.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "hkp9a_cb2",
+    "name": "HKP9A (Sweden)",
+    "country": "Sweden",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "hkp9a_cb2_default",
+      "hkp9a_cb2_ffv_uni_pod",
+      "hkp9a_cb2_rb55b_ffv_uni_pod"
+    ],
+    "ammo_amount": 9999,
+    "image": "hkp9a_cb2.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1g",
+    "name": "AH-1G (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1g_default",
+      "ah_1g_rocket",
+      "ah_1g_rocket_ffar",
+      "ah_1g_xm18",
+      "ah_1g_xm35"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1g.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1f",
+    "name": "AH-1F (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1f_default",
+      "ah_1f_rocket",
+      "ah_1f_rocket_ffar",
+      "ah_1f_rocket_4xTOW",
+      "ah_1f_rocket_8xTOW",
+      "ah_1f_rocket_4xTOW2",
+      "ah_1f_rocket_8xTOW2"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1f.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1w",
+    "name": "AH-1W (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1w_default",
+      "ah_1w_aim_9",
+      "ah_1w_rocket",
+      "ah_1w_rocket_zuni",
+      "ah_1w_rocket_4xTOW",
+      "ah_1w_rocket_8xTOW",
+      "ah_1w_rocket_4x_hellfire",
+      "ah_1w_rocket_8x_hellfire",
+      "ah_1w_gpu_2a"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1w.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_1z",
+    "name": "AH-1Z (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_1g_default",
+      "ah_1z_aim_9l",
+      "ah_1z_aim_9m",
+      "ah_1z_hydra_70_m247",
+      "ah_1z_apkws_m151",
+      "ah_1z_apkws_m282",
+      "ah_1z_4_hellfire",
+      "ah_1z_8_hellfire",
+      "ah_1z_16_hellfire",
+      "ah_1z_xm18"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_1z.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_6m",
+    "name": "AH-6M (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_6m_default",
+      "ah_6m_2_m134",
+      "ah_6m_2_lau_131a",
+      "ah_6m_2_apkws_m151",
+      "ah_6m_2_apkws_m282",
+      "ah_6m_4_hellfire",
+      "ah_6m_2_gau_19"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_6m.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mh_60l_dap",
+    "name": "MH-60L DAP (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mh_60l_dap_default",
+      "mh_60l_dap_stinger",
+      "mh_60l_dap_hydra_70_m247",
+      "mh_60l_dap_apkws_m151",
+      "mh_60l_dap_apkws_m282",
+      "mh_60l_dap_4_hellfire",
+      "mh_60l_dap_rocket_4_hellfire",
+      "mh_60l_dap_8_hellfire",
+      "mh_60l_dap_16_hellfire",
+      "mh_60l_dap_2_m134",
+      "mh_60l_dap_2_lr30",
+      "mh_60l_dap_2_gau19"
+    ],
+    "ammo_amount": 9999,
+    "image": "mh_60l_dap.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64a",
+    "name": "AH-64A (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64a_default",
+      "ah_64a_aim_9",
+      "ah_64a_stinger",
+      "ah_64a_hydra_70_m247",
+      "ah_64a_apkws_m151",
+      "ah_64a_apkws_m282",
+      "ah_64d_8_hellfire",
+      "ah_64a_16_hellfire"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64a.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64d",
+    "name": "AH-64D (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64d_default",
+      "ah_64d_stinger",
+      "ah_64d_hydra_70_m247",
+      "ah_64d_apkws_m151",
+      "ah_64d_apkws_m282",
+      "ah_64d_rocket_4_hellfire",
+      "ah_64d_8_hellfire",
+      "ah_64d_16_hellfire",
+      "ah_64d_ltc_amase"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64d.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "h_34",
+    "name": "H-34 (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "h_34_default",
+      "h_34_us_v1",
+      "h_34_us_v6"
+    ],
+    "ammo_amount": 9999,
+    "image": "h_34.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64a_greece_usa",
+    "name": "AH-64A (GR) (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64a_greece_usa_default",
+      "ah_64a_greece_usa_aim_9",
+      "ah_64a_greece_usa_stinger",
+      "ah_64a_greece_usa_hydra_70_m247",
+      "ah_64a_greece_usa_apkws_m151",
+      "ah_64a_greece_usa_apkws_m282",
+      "ah_64a_greece_usa_8_hellfire_stinger",
+      "ah_64a_greece_usa_16_hellfire_stinger"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64a_greece_usa.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64a_peten",
+    "name": "3AH-64A Peten (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64a_peten_default",
+      "ah_64a_stinger",
+      "ah_64a_peten_hydra_70_m247",
+      "ah_64a_peten_8_hellfire_stinger",
+      "ah_64a_peten_16_hellfire_stinger"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64a_peten.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_24a",
+    "name": "Mi-24A (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_24a_default",
+      "mi_24a_ub32",
+      "mi_24a_rocket_9M17M",
+      "mi_24a_4xfab250",
+      "mi_24a_2xfab500",
+      "mi_24a_upk_23_250"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_24a.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ka_29",
+    "name": "Ka-29 (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ka_29_default",
+      "ka_29_rocket_b8v20",
+      "ka_29_rocket_9M114_x2_default",
+      "ka_29_rocket_9M114",
+      "ka_29_upk_23_250",
+      "ka_29_2a42"
+    ],
+    "ammo_amount": 9999,
+    "image": "ka_29.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ka_52",
+    "name": "Ka-52 (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ka_52_default",
+      "ka_52_9m39",
+      "ka_52_rocket_c_8_ko",
+      "ka_52_rocket_c_13",
+      "ka_52_9m120_4",
+      "ka_52_9k127",
+      "ka_52_9m120_16",
+      "ka_52_fab_250",
+      "ka_52_fab_500",
+      "ka_52_upk_23_250"
+    ],
+    "ammo_amount": 9999,
+    "image": "ka_52.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_24d",
+    "name": "2Mi-24D (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_24d_default",
+      "mi_24d_ub32",
+      "mi_24d_ub32_9m17m",
+      "mi_24d_s_24",
+      "mi_24d_s_24_9m17m",
+      "mi_24d_rocket_9m17m",
+      "mi_24d_4xfab250",
+      "mi_24d_4xfab250_9m17m",
+      "mi_24d_2xfab500",
+      "mi_24d_2xfab500_9m17m",
+      "mi_24d_upk_23_250",
+      "mi_24d_upk_23_250_9m17m"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_24d.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ka_50",
+    "name": "Ka-50 (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ka_50_default",
+      "ka_50_9m39_igla",
+      "ka_50_rocket_c_8_ko",
+      "ka_50_rocket_vyhr",
+      "ka_50_fab_250",
+      "ka_50_fab_500",
+      "ka_50_upk_23_250"
+    ],
+    "ammo_amount": 9999,
+    "image": "ka_50.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64d_netherlands",
+    "name": "AH-64D (France)",
+    "country": "France",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64d_default",
+      "ah_64d_netherlands_8_hellfire_hydra_70_atas",
+      "ah_64d_netherlands_8_hellfire_hydra_70_amase",
+      "ah_64d_netherlands_16_hellfie_atas",
+      "ah_64d_netherlands_16_hellfire_amase",
+      "ah_64d_netherlands_16_hellfire",
+      "ah_64d_netherlands_apkws_m151",
+      "ah_64d_netherlands_apkws_m282",
+      "ah_64d_netherlands_hydra_70",
+      "ah_64d_netherlands_amase",
+      "ah_64d_netherlands_atas"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64d_netherlands.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "scout_ah_mk1",
+    "name": "Scout AH.Mk.1 (Great Britain)",
+    "country": "Great Britain",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "scout_ah_mk1_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "scout_ah_mk1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "wasp_has_mk1",
+    "name": "Wasp HAS.Mk.1 (Great Britain)",
+    "country": "Great Britain",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "wasp_has_mk1_default",
+      "wasp_has_mk1_ss12"
+    ],
+    "ammo_amount": 9999,
+    "image": "wasp_has_mk1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "wessex_mk5",
+    "name": "Wessex HU Mk.5 (Great Britain)",
+    "country": "Great Britain",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "wessex_mk5_default",
+      "wessex_mk5_ss11",
+      "wessex_mk5_as12",
+      "wessex_mk5_matra_6_mk_1"
+    ],
+    "ammo_amount": 9999,
+    "image": "wessex_mk5.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "z_11wa",
+    "name": "Z-11WA (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "z_11wa_default",
+      "z_11wa_hj_8_default",
+      "z_11wa_hf_27",
+      "z_11wa_hj_8",
+      "z_11wa_gun_pod"
+    ],
+    "ammo_amount": 9999,
+    "image": "z_11wa.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "z_9w",
+    "name": "Z-9W (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "z_9w_default",
+      "z_9w_gun_pod",
+      "z_9w_hf_6_default",
+      "z_9w_hf_6",
+      "z_9w_hj_8c",
+      "z_9w_hj_8e",
+      "z_9w_ty_90",
+      "z_9w_cannon_pod"
+    ],
+    "ammo_amount": 9999,
+    "image": "z_9w.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "z_9wa",
+    "name": "Z-9WA (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "z_9wa_default",
+      "z_9wa_gun_pod",
+      "z_9wa_hj_8e_default",
+      "z_9wa_hf_6",
+      "z_9wa_hj_8e",
+      "z_9wa_hj_8h",
+      "z_9wa_akd_9",
+      "z_9wa_ty_90",
+      "z_9wa_cannon_pod"
+    ],
+    "ammo_amount": 9999,
+    "image": "z_9wa.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "z_19",
+    "name": "Z-19 (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "z_19_default",
+      "z_19_akd_9_default",
+      "z_19_hf7d",
+      "z_19_akd_9",
+      "z_19_ty_90",
+      "z_19_gunpods"
+    ],
+    "ammo_amount": 9999,
+    "image": "z_19.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "z_10",
+    "name": "Z-10 (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "z_10_default",
+      "z_10_akd_9_default",
+      "z_10_akd_9",
+      "z_10_akd_10",
+      "z_10_hf_7d",
+      "z_10_hf_25",
+      "z_10_ty_90",
+      "z_10_gun_pod"
+    ],
+    "ammo_amount": 9999,
+    "image": "z_10.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "sa_342l_china",
+    "name": "SA.342L Gazelle (China)",
+    "country": "China",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "sa_342l_china_default",
+      "sa_342l_china_hf_27",
+      "sa_342l_china_hj_8",
+      "sa_342l_china_gun_pod"
+    ],
+    "ammo_amount": 9999,
+    "image": "sa_342l_china.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "oh_58d_china",
+    "name": "OH-58D (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "oh_58d_default",
+      "oh_58d_gau19",
+      "oh_58d_hellfire_defult",
+      "oh_58d_apkws_m151",
+      "oh_58d_apkws_m282",
+      "oh_58d_hellfire",
+      "oh_58d_atas"
+    ],
+    "ammo_amount": 9999,
+    "image": "oh_58d_china.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "z_19e",
+    "name": "Z-19E (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "z_19e_default",
+      "z_19e_hf7d",
+      "z_19e_ba_9",
+      "z_19e_ty_90",
+      "z_19e_gunpods",
+      "z_19e_ba_9_ty_90",
+      "z_19e_ba_9_gunnpod",
+      "z_19e_ba_9_hf7d"
+    ],
+    "ammo_amount": 9999,
+    "image": "z_19e.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "sa_316b",
+    "name": "SA 316B Alouette III (France)",
+    "country": "France",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "sa_316b_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "sa_316b.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "sa_341f",
+    "name": "SA.341F Gazelle (France)",
+    "country": "France",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "sa_341f_default",
+      "sa_341f_rocket_atam_mistral",
+      "sa_341f_hot",
+      "sa_341f_hot_2"
+    ],
+    "ammo_amount": 9999,
+    "image": "sa_341f.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "sa_342m",
+    "name": "SA.342M Gazelle (France)",
+    "country": "France",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "sa_342m_default",
+      "sa_342m_rocket_atam_mistral",
+      "sa_342m_hot_default",
+      "sa_342m_hot",
+      "sa_342m_hot_2"
+    ],
+    "ammo_amount": 9999,
+    "image": "sa_342m.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "tiger_had_france",
+    "name": "EC-665 Tiger HAD (France)",
+    "country": "France",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "tiger_had_france_default",
+      "tiger_had_france_tel22_tda",
+      "tiger_had_france_tel12_tda",
+      "tiger_had_france_hot3_x2_default",
+      "tiger_had_france_hot3",
+      "tiger_had_france_4_hellfire",
+      "tiger_had_france_8_hellfire",
+      "tiger_had_france_stinger",
+      "tiger_had_france_mistral"
+    ],
+    "ammo_amount": 9999,
+    "image": "tiger_had_france.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "tiger_had_block2_france",
+    "name": "Tiger HAD Block 2 (France)",
+    "country": "France",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "tiger_had_france_default",
+      "tiger_had_france_tel22_tda",
+      "tiger_had_france_tel12_tda",
+      "tiger_had_france_4_hellfire_default",
+      "tiger_had_france_8_hellfire",
+      "tiger_had_block2_france_4_spike",
+      "tiger_had_block2_france_8_spike",
+      "tiger_had_france_stinger",
+      "tiger_had_france_mistral"
+    ],
+    "ammo_amount": 9999,
+    "image": "tiger_had_block2_france.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "sa_313b_france",
+    "name": "SA 313B Alouette II (France)",
+    "country": "France",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "sa_313b_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "sa_313b_france.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "tiger_hap_france",
+    "name": "EC-665 Tiger HAP (France)",
+    "country": "France",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "tiger_hap_france_default",
+      "tiger_hap_france_tel22_tda",
+      "tiger_hap_france_tel12_tda",
+      "tiger_hap_france_hot3_default",
+      "tiger_hap_france_hot3",
+      "tiger_hap_france_stinger",
+      "tiger_hap_france_mistral",
+      "tiger_hap_france_hot3_mistral",
+      "tiger_hap_france_hot3_tel12_tda",
+      "tiger_hap_france_tel22_tda_stinger"
+    ],
+    "ammo_amount": 9999,
+    "image": "tiger_hap_france.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "sa_313b",
+    "name": "SA 313B Alouette II (Germany)",
+    "country": "Germany",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "sa_313b_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "sa_313b.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "uh_1d",
+    "name": "UH-1D (Germany)",
+    "country": "Germany",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "uh_1d_default",
+      "uh_1d_lr68",
+      "uh_1d_rocket_ss11",
+      "uh_1d_xm18"
+    ],
+    "ammo_amount": 9999,
+    "image": "uh_1d.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "tiger_uht",
+    "name": "EC-665 Tiger UHT (Germany)",
+    "country": "Germany",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "tiger_uht_default",
+      "tiger_uht_apkws_m151",
+      "tiger_uht_apkws_m282",
+      "tiger_uht_4x_hot3",
+      "tiger_uht_hot3",
+      "tiger_uht_atgw3",
+      "tiger_uht_gun_fn_m3p",
+      "tiger_uht_gun_fn_m3p_rocket",
+      "tiger_uht_stinger"
+    ],
+    "ammo_amount": 9999,
+    "image": "tiger_uht.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_8tb",
+    "name": "Mi-8TB (Germany)",
+    "country": "Germany",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_8tb_default",
+      "mi_8tb_ub16",
+      "mi_8tb_ub32",
+      "mi_8tb_ub32_9m14_default",
+      "mi_8tb_9m14",
+      "mi_8tb_fab100",
+      "mi_8tb_fab250",
+      "mi_8tb_fab250m_62",
+      "mi_8tb_fab500m_62",
+      "mi_8tb_fab500",
+      "mi_8tb_zb500"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_8tb.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_24p_german",
+    "name": "Mi-24P (Germany)",
+    "country": "Germany",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_24p_german_default",
+      "mi_24p_german_r_60_x1",
+      "mi_24p_german_r_60_x2",
+      "mi_24p_german_r_60mk_x1",
+      "mi_24p_german_r_60mk_x2",
+      "mi_24p_german_rocket_c_8_ko",
+      "mi_24p_german_rocket_9M114",
+      "mi_24p_german_rocket_9M114_4",
+      "mi_24p_german_4xfab250",
+      "mi_24p_german_2xfab500",
+      "mi_24p_german_upk_23_250",
+      "mi_24p_guv_8700"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_24p_german.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_24p_german_hfs80",
+    "name": "Mi-24P HFS 80 (Germany)",
+    "country": "Germany",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_24p_german_default",
+      "mi_24p_german_r_60_x1",
+      "mi_24p_german_r_60_x2",
+      "mi_24p_german_r_60mk_x1",
+      "mi_24p_german_r_60mk_x2",
+      "mi_24p_german_rocket_c_8_ko",
+      "mi_24p_hsf80_german_rocket_c_8_ko_9m114",
+      "mi_24p_german_rocket_9M114",
+      "mi_24p_german_rocket_9M114_4",
+      "mi_24p_german_4xfab250",
+      "mi_24p_german_hsf80_4xfab250_9m114",
+      "mi_24p_german_2xfab500",
+      "mi_24p_german_hsf80_2xfab500_r60mk_9m114",
+      "mi_24p_german_upk_23_250",
+      "mi_24p_german_hsf80_upk_23_250_9m114",
+      "mi_24p_guv_8700",
+      "mi_24p_german_hsf80_guv_8700_9m114"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_24p_german_hfs80.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_24v_hungary",
+    "name": "Mi-24V (Italy)",
+    "country": "Italy",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_24v_default",
+      "mi_24v_r_60_x1",
+      "mi_24v_r_60_x2",
+      "mi_24v_r_60m_x1",
+      "mi_24v_r_60m_x2",
+      "mi_24v_rocket_c_8_ko",
+      "mi_24v_s_24",
+      "mi_24v_rocket_9M114",
+      "mi_24v_rocket_9M114_4",
+      "mi_24v_4xfab250",
+      "mi_24v_2xfab500",
+      "mi_24v_upk_23_250",
+      "mi_24v_guv_8700"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_24v_hungary.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "t_129_atak",
+    "name": "T129 (Italy)",
+    "country": "Italy",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "t_129_atak_default",
+      "t_129_atak_atas_x2",
+      "t_129_atak_fz207_x19",
+      "t_129_atak_umtas_x4",
+      "t_129_atak_cirit_x4",
+      "t_129_atak_cirit_x2_umtas_x2",
+      "t_129_atak_atas_x2_umtas_x4",
+      "t_129_atak_atas_umtas_cirit_fz207"
+    ],
+    "ammo_amount": 9999,
+    "image": "t_129_atak.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_24p_hungary",
+    "name": "Mi-24P (Italy)",
+    "country": "Italy",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_24p_default",
+      "mi_24p_r_60_x1",
+      "mi_24p_r_60_x2",
+      "mi_24p_r_60m_x1",
+      "mi_24p_r_60m_x2",
+      "mi_24p_rocket_c_8_ko",
+      "mi_24p_hungary_rocket_c_8_ko",
+      "mi_24p_s_24",
+      "mi_24p_hungary_s_24_9M114",
+      "mi_24p_rocket_9M114",
+      "mi_24p_rocket_9M114_4",
+      "mi_24p_4xfab250",
+      "mi_24p_hungary_4xfab250_9M114",
+      "mi_24p_2xfab500",
+      "mi_24p_hungary_2xfab500_r60m_9M114",
+      "mi_24p_upk_23_250",
+      "mi_24p_hungary_upk_23_250_9M114",
+      "mi_24p_guv_8700",
+      "mi_24p_hungary_guv_8700_9M114"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_24p_hungary.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "uh_1b_japan",
+    "name": "5UH-1B (Japan)",
+    "country": "Japan",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "uh_1b_japan_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "uh_1b_japan.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_28a_sweden",
+    "name": "Mi-28A (Sweden)",
+    "country": "Sweden",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_28a_sweden_default",
+      "mi_28a_sweden_rocket_c_8_ko",
+      "mi_28a_sweden_rocket_c_13",
+      "mi_28a_sweden_rocket_9M120",
+      "mi_28a_sweden_upk_23_250"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_28a_sweden.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "uh_1b",
+    "name": "UH-1B (USA)",
+    "country": "USA",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "uh_1b_default",
+      "uh_1b_xm159",
+      "uh_1b_rocket_ss11",
+      "uh_1b_xm18",
+      "uh_1b_xm21"
+    ],
+    "ammo_amount": 9999,
+    "image": "uh_1b.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "uh_1c",
+    "name": "UH-1C (USA)",
+    "country": "USA",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "uh_1c_default",
+      "uh_1c_xm159",
+      "uh_1c_rocket_ss11",
+      "uh_1c_rocket_TOW",
+      "uh_1c_xm18",
+      "uh_1c_xm21"
+    ],
+    "ammo_amount": 9999,
+    "image": "uh_1c.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "oh_58d",
+    "name": "OH-58D (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "oh_58d_default",
+      "oh_58d_gau19",
+      "oh_58d_m134",
+      "oh_58d_lr30",
+      "oh_58d_hellfire_defult",
+      "oh_58d_apkws_m151",
+      "oh_58d_apkws_m282",
+      "oh_58d_hellfire",
+      "oh_58d_atas"
+    ],
+    "ammo_amount": 9999,
+    "image": "oh_58d.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "uh_1c_xm_30",
+    "name": "UH-1C XM-30 (USA)",
+    "country": "USA",
+    "role": "Utility Helicopter",
+    "weapons_default": [
+      "uh_1c_xm_30_default",
+      "uh_1c_xm_30_rocket",
+      "uh_1c_xm_30_xm159",
+      "uh_1c_xm_30_rocket_TOW",
+      "uh_1c_xm_30_xm18",
+      "uh_1c_xm_30_xm21"
+    ],
+    "ammo_amount": 9999,
+    "image": "uh_1c_xm_30.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "yah_64",
+    "name": "YAH-64 (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "yah_64_default",
+      "yah_64_hydra_70_m247",
+      "yah_64d_8_hellfire",
+      "yah_64_16_hellfire"
+    ],
+    "ammo_amount": 9999,
+    "image": "yah_64.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_4av",
+    "name": "Mi-4AV (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_4av_default",
+      "mi_4av_2x9m17m_default",
+      "mi_4av_4x9m17m",
+      "mi_4av_6xfab100",
+      "mi_4av_4xfab250",
+      "mi_4av_4xfab250_9m17m"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_4av.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_24v",
+    "name": "Mi-24V (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_24v_default",
+      "mi_24v_r_60_x1",
+      "mi_24v_r_60_x2",
+      "mi_24v_r_60m_x1",
+      "mi_24v_r_60m_x2",
+      "mi_24v_rocket_c_8_ko",
+      "mi_24v_s_24",
+      "mi_24v_rocket_9M114",
+      "mi_24v_rocket_9M114_4",
+      "mi_24v_4xfab250",
+      "mi_24v_2xfab500",
+      "mi_24v_upk_23_250",
+      "mi_24v_guv_8700"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_24v.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_24p",
+    "name": "Mi-24P (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_24p_default",
+      "mi_24p_r_60_x1",
+      "mi_24p_r_60_x2",
+      "mi_24p_r_60m_x1",
+      "mi_24p_r_60m_x2",
+      "mi_24p_rocket_c_8_ko",
+      "mi_24p_s_24",
+      "mi_24p_rocket_9M114",
+      "mi_24p_rocket_9M114_4",
+      "mi_24p_4xfab250",
+      "mi_24p_2xfab500",
+      "mi_24p_upk_23_250",
+      "mi_24p_guv_8700"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_24p.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_35m",
+    "name": "Mi-35M (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_35m_default",
+      "mi_35m_rocket_9M39",
+      "mi_35m_rocket_c_8_ko",
+      "mi_35m_rocket_c_13",
+      "mi_35m_rocket_9M114_default",
+      "mi_35m_rocket_9M114",
+      "mi_35m_rocket_9M114_4",
+      "mi_35m_rocket_9M120",
+      "mi_35m_rocket_9M120_4",
+      "mi_35m_upk_23_250"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_35m.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_28n",
+    "name": "Mi-28N (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_28n_default",
+      "mi_28n_rocket_9M39",
+      "mi_28n_rocket_c_8_ko",
+      "mi_28n_rocket_c_13",
+      "mi_28n_rocket_9M120_4_default",
+      "mi_28n_rocket_9M120_4",
+      "mi_28n_rocket_9M120",
+      "mi_28n_upk_23_250"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_28n.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_28nm",
+    "name": "Mi-28NM (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_28nm_default",
+      "mi_28nm_rocket_9M39",
+      "mi_28nm_rocket_c_8_ko",
+      "mi_28nm_rocket_c_13of",
+      "mi_28nm_rocket_9M120_4_default",
+      "mi_28nm_rocket_9M123",
+      "mi_28nm_rocket_9M120_4",
+      "mi_28nm_rocket_9M120",
+      "mi_28nm_rocket_vyhr",
+      "mi_28nm_fab250",
+      "mi_28nm_fab500",
+      "mi_28nm_upk_23_250"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_28nm.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_8tv",
+    "name": "Mi-8TV (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_8tv_default",
+      "mi_8tv_ub16",
+      "mi_8tv_ub32",
+      "mi_8tv_ub32_9m17_default",
+      "mi_8tv_9m17",
+      "mi_8tv_fab100",
+      "mi_8tv_fab250",
+      "mi_8tv_fab250m_62",
+      "mi_8tv_fab500m_62",
+      "mi_8tv_fab500",
+      "mi_8tv_zb500"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_8tv.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_8amtsh",
+    "name": "Mi-8AMTSh (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_8amtsh_default",
+      "mi_8amtsh_b8m_9m114_default",
+      "mi_8amtsh_9m114",
+      "mi_8amtsh_fab100",
+      "mi_8amtsh_fab250m_62",
+      "mi_8amtsh_fab500m_62",
+      "mi_8amtsh_zb500",
+      "mi_8amtsh_upk_23_250",
+      "mi_8amtsh_guv_8700",
+      "mi_8amtsh_9m39",
+      "mi_8amtsh_9m39_x2"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_8amtsh.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "super_hind_mk3",
+    "name": "Superhind (Great Britain)",
+    "country": "Great Britain",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "super_hind_mk3_default",
+      "super_hind_mk3_s_24",
+      "super_hind_mk3_zt_35_default",
+      "super_hind_mk3_zt_35",
+      "super_hind_mk3_4xfab250",
+      "super_hind_mk3_4xmk82",
+      "super_hind_mk3_2xfab500",
+      "super_hind_mk3_2xzab500"
+    ],
+    "ammo_amount": 9999,
+    "image": "super_hind_mk3.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_35m_pakistan",
+    "name": "Mi-35M (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_35m_pakistan_default",
+      "mi_35m_pakistan_rocket_9M39",
+      "mi_35m_pakistan_rocket_c_8_ko",
+      "mi_35m_pakistan_rocket_c_13",
+      "mi_35m_pakistan_upk_23_250"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_35m_pakistan.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_8amtsh_vn",
+    "name": "Mi-8AMTSh-VN (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_8amtsh_vn_default",
+      "mi_8amtsh_vn_b8m_9m120_default",
+      "mi_8amtsh_vn_9m120",
+      "mi_8amtsh_vn_fab100",
+      "mi_8amtsh_vn_fab250m_62",
+      "mi_8amtsh_vn_fab500m_62",
+      "mi_8amtsh_vn_zb500",
+      "mi_8amtsh_vn_upk_23_250",
+      "mi_8amtsh_vn_9m336",
+      "mi_8amtsh_vn_9m336_x2"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_8amtsh_vn.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "tiger_hac_france",
+    "name": "EC-665 Tiger HAC (France)",
+    "country": "France",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "tiger_hac_france_default",
+      "tiger_hac_france_tel22_tda",
+      "tiger_hac_france_hot3",
+      "tiger_hac_france_atgw3",
+      "tiger_hac_france_stinger",
+      "tiger_hac_france_mistral"
+    ],
+    "ammo_amount": 9999,
+    "image": "tiger_hac_france.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "tiger_had_spain",
+    "name": "Tigre HAD-E (Germany)",
+    "country": "Germany",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "tiger_had_spain_default",
+      "tiger_had_spain_tel12_tda",
+      "tiger_had_spain_8_hellfire",
+      "tiger_had_spain_mistral",
+      "tiger_had_spain_hydra_70"
+    ],
+    "ammo_amount": 9999,
+    "image": "tiger_had_spain.png",
+    "ammo": [
+      "N/A"
+    ]
+  }
+]
