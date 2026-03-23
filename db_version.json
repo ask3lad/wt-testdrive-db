@@ -1,5 +1,11 @@
 {
     "version": 2.0,
     "date": "23 March 2026",
-    "time": "13:32"
+    "time": "07:35pm",
+    "notes": [
+        "Tank database: updated to Ninth Wave",
+        "Added Aircraft database: 1,207 planes",
+        "Added Helicopter database: 97 helicopters",
+        "Added Ship database: 564 ships"
+    ]
 }
