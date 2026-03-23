@@ -1,5 +1,19 @@
 [
   {
+    "ID": "zeppelin",
+    "name": "Zeppelin",
+    "country": "N/A",
+    "role": "Special",
+    "weapons_default": [
+      "zeppelin_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "zeppelin.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
     "ID": "ahs",
     "name": "AHS (Sweden)",
     "country": "Sweden",
@@ -1947,6 +1961,20 @@
     ],
     "ammo_amount": 9999,
     "image": "tiger_had_spain.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "zeppelin",
+    "name": "Zeppelin",
+    "country": "N/A",
+    "role": "Special",
+    "weapons_default": [
+      "zeppelin_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "zeppelin.png",
     "ammo": [
       "N/A"
     ]

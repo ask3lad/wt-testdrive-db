@@ -16266,10 +16266,29 @@
     "image": "ussr_pantsyr_sm_sv.png",
     "ammo": [
       "30mm_2a38_HE",
-      "30mm_2a42_AP",
-      "170mm_57e6_aam",
-      "170mm_57e6m_aam",
-      "170mm_tkb_1055_aam"
+      "30mm_2a42_AP"
+    ],
+    "ammo_loadouts": [
+      {
+        "name": "30mm AP-T, 95Ya6 x4, 95Ya6m x4, TKB-1055 x16",
+        "bullets": ["30mm_2a42_AP", "170mm_57e6_aam", "170mm_57e6m_aam", "170mm_tkb_1055_aam"],
+        "counts": [9999, 4, 4, 16]
+      },
+      {
+        "name": "30mm AP-T, 95Ya6 x12",
+        "bullets": ["30mm_2a42_AP", "170mm_57e6_aam", "", ""],
+        "counts": [9999, 12, 0, 0]
+      },
+      {
+        "name": "30mm AP-T, 95Ya6M x12",
+        "bullets": ["30mm_2a42_AP", "170mm_57e6m_aam", "", ""],
+        "counts": [9999, 12, 0, 0]
+      },
+      {
+        "name": "30mm AP-T, TKB-1055 x48",
+        "bullets": ["30mm_2a42_AP", "170mm_tkb_1055_aam", "", ""],
+        "counts": [9999, 48, 0, 0]
+      }
     ]
   },
   {
