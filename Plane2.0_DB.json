@@ -23072,5 +23072,1363 @@
     "ammo": [
       "N/A"
     ]
+  },
+  {
+    "ID": "a6m5_zero_china",
+    "name": "A6M5 (China)",
+    "country": "China",
+    "role": "Fighter",
+    "weapons_default": [
+      "a6m5_zero_china_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "a6m5_zero_china.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "alpha_jet_a_jabog41",
+    "name": "Alpha Jet A (JaBoG 41)",
+    "country": "Germany",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "alpha_jet_a_jabog41_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "alpha_jet_a_jabog41.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "b_66b",
+    "name": "B-66B (USA)",
+    "country": "USA",
+    "role": "Bomber",
+    "weapons_default": [
+      "b_66b_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "b_66b.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ba_65_a80",
+    "name": "Ba.65 (A.80) (Italy)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "ba_65_a80_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ba_65_a80.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "bf_109t_2",
+    "name": "Bf 109 T-2 (Germany)",
+    "country": "Germany",
+    "role": "Fighter",
+    "weapons_default": [
+      "bf_109t_2_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "bf_109t_2.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "c_3604",
+    "name": "C-3604 (Switzerland)",
+    "country": "Germany",
+    "role": "Fighter",
+    "weapons_default": [
+      "c_3604_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "c_3604.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "cf_188a_canada",
+    "name": "CF-188A (Canada)",
+    "country": "Great Britain",
+    "role": "Fighter",
+    "weapons_default": [
+      "cf_188a_canada_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "cf_188a_canada.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "db_lk",
+    "name": "DB-LK (USSR)",
+    "country": "USSR",
+    "role": "Bomber",
+    "weapons_default": [
+      "db_lk_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "db_lk.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ef_2000_aesa",
+    "name": "EF-2000 (AESA) (Germany)",
+    "country": "Germany",
+    "role": "Fighter",
+    "weapons_default": [
+      "ef_2000_aesa_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ef_2000_aesa.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ef_2000_typhoon_aesa",
+    "name": "Typhoon (AESA) (Great Britain)",
+    "country": "Great Britain",
+    "role": "Fighter",
+    "weapons_default": [
+      "ef_2000_typhoon_aesa_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ef_2000_typhoon_aesa.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ef_2000a_aesa",
+    "name": "F-2000A (AESA) (Italy)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "ef_2000a_aesa_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ef_2000a_aesa.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f-5e_switzerland",
+    "name": "F-5E (Switzerland)",
+    "country": "Germany",
+    "role": "Fighter",
+    "weapons_default": [
+      "f-5e_switzerland_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f-5e_switzerland.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f-5th_thailand",
+    "name": "F-5TH TCU (Japan)",
+    "country": "Japan",
+    "role": "Fighter",
+    "weapons_default": [
+      "f-5th_thailand_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f-5th_thailand.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f_106a_1972",
+    "name": "F-106A (1972) (USA)",
+    "country": "USA",
+    "role": "Fighter",
+    "weapons_default": [
+      "f_106a_1972_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f_106a_1972.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f_15c_golden_eagle",
+    "name": "F-15C Golden Eagle (USA)",
+    "country": "USA",
+    "role": "Fighter",
+    "weapons_default": [
+      "f_15c_golden_eagle_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f_15c_golden_eagle.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f_16a_block_10_norway",
+    "name": "F-16A Block 10 (Norway)",
+    "country": "Sweden",
+    "role": "Fighter",
+    "weapons_default": [
+      "f_16a_block_10_norway_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f_16a_block_10_norway.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f_16a_block_15_ocu_belgium",
+    "name": "F-16A Block 15 OCU (Belgium)",
+    "country": "France",
+    "role": "Fighter",
+    "weapons_default": [
+      "f_16a_block_15_ocu_belgium_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f_16a_block_15_ocu_belgium.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f_16a_block_5_netherlands",
+    "name": "F-16A Block 5 (Netherlands)",
+    "country": "France",
+    "role": "Fighter",
+    "weapons_default": [
+      "f_16a_block_5_netherlands_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f_16a_block_5_netherlands.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f_16am_block_20_mlu_norway",
+    "name": "F-16AM Block 20 MLU (Norway)",
+    "country": "Sweden",
+    "role": "Fighter",
+    "weapons_default": [
+      "f_16am_block_20_mlu_norway_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f_16am_block_20_mlu_norway.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f_16c_block_52_aesa",
+    "name": "F-16C Block 52 (AESA) (USA)",
+    "country": "USA",
+    "role": "Fighter",
+    "weapons_default": [
+      "f_16c_block_52_aesa_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f_16c_block_52_aesa.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f_16i_sufa",
+    "name": "F-16I Sufa (Israel)",
+    "country": "Israel",
+    "role": "Fighter",
+    "weapons_default": [
+      "f_16i_sufa_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f_16i_sufa.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f_2a",
+    "name": "F-2A (Japan)",
+    "country": "Japan",
+    "role": "Fighter",
+    "weapons_default": [
+      "f_2a_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f_2a.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "f_2a_adtw",
+    "name": "F-2A ADTW (Japan)",
+    "country": "Japan",
+    "role": "Fighter",
+    "weapons_default": [
+      "f_2a_adtw_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "f_2a_adtw.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fa_18a_hug_2_raaf",
+    "name": "F/A-18A HUG.2 (RAAF)",
+    "country": "Great Britain",
+    "role": "Fighter",
+    "weapons_default": [
+      "fa_18a_hug_2_raaf_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fa_18a_hug_2_raaf.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fa_18a_raaf",
+    "name": "F/A-18A (RAAF)",
+    "country": "Great Britain",
+    "role": "Fighter",
+    "weapons_default": [
+      "fa_18a_raaf_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fa_18a_raaf.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fa_18c_late_switzerland",
+    "name": "F/A-18C Late (Switzerland)",
+    "country": "Germany",
+    "role": "Fighter",
+    "weapons_default": [
+      "fa_18c_late_switzerland_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fa_18c_late_switzerland.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fa_18c_mlu_2_finland",
+    "name": "F/A-18C MLU.2 (Finland)",
+    "country": "Sweden",
+    "role": "Fighter",
+    "weapons_default": [
+      "fa_18c_mlu_2_finland_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fa_18c_mlu_2_finland.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fa_18c_switzerland",
+    "name": "F/A-18C (Switzerland)",
+    "country": "Germany",
+    "role": "Fighter",
+    "weapons_default": [
+      "fa_18c_switzerland_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fa_18c_switzerland.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fa_18d_late_malaysia",
+    "name": "F/A-18D Late (Malaysia)",
+    "country": "Japan",
+    "role": "Fighter",
+    "weapons_default": [
+      "fa_18d_late_malaysia_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fa_18d_late_malaysia.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fa_18e_block_2",
+    "name": "F/A-18E (Block 2) (USA)",
+    "country": "USA",
+    "role": "Fighter",
+    "weapons_default": [
+      "fa_18e_block_2_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fa_18e_block_2.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fa_18f_block_2_raaf",
+    "name": "F/A-18F Block 2 (RAAF)",
+    "country": "Great Britain",
+    "role": "Fighter",
+    "weapons_default": [
+      "fa_18f_block_2_raaf_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fa_18f_block_2_raaf.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fairey_3f_mk3b",
+    "name": "Fairey IIIF Mk.IIIB (Great Britain)",
+    "country": "Great Britain",
+    "role": "Bomber",
+    "weapons_default": [
+      "fairey_3f_mk3b_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fairey_3f_mk3b.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fokker_d21_netherlands",
+    "name": "Fokker D.XXI (Netherlands)",
+    "country": "France",
+    "role": "Fighter",
+    "weapons_default": [
+      "fokker_d21_netherlands_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fokker_d21_netherlands.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fokker_d23",
+    "name": "Fokker D.XXIII (Netherlands)",
+    "country": "France",
+    "role": "Fighter",
+    "weapons_default": [
+      "fokker_d23_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fokker_d23.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fokker_d7",
+    "name": "Fokker D.VII (Germany)",
+    "country": "Germany",
+    "role": "Fighter",
+    "weapons_default": [
+      "fokker_d7_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fokker_d7.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fr_1_fireball",
+    "name": "FR-1 Fireball (USA)",
+    "country": "USA",
+    "role": "Fighter",
+    "weapons_default": [
+      "fr_1_fireball_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fr_1_fireball.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "fw_190f_8_hungary",
+    "name": "Fw 190 F-8 (Hungary)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "fw_190f_8_hungary_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "fw_190f_8_hungary.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "h-75m_china",
+    "name": "H-75M (China)",
+    "country": "China",
+    "role": "Fighter",
+    "weapons_default": [
+      "h-75m_china_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "h-75m_china.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "hawk_200",
+    "name": "Hawk 200 (Great Britain)",
+    "country": "Great Britain",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "hawk_200_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "hawk_200.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "hawk_200_rda",
+    "name": "Hawk 200 RDA (Great Britain)",
+    "country": "Great Britain",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "hawk_200_rda_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "hawk_200_rda.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "hawk_209_indonesia",
+    "name": "Hawk 209 (Indonesia)",
+    "country": "Japan",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "hawk_209_indonesia_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "hawk_209_indonesia.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "hp52_hampden_tbmk1_utk1",
+    "name": "Hampden TB.Mk.I (UTK.1)",
+    "country": "Great Britain",
+    "role": "Bomber",
+    "weapons_default": [
+      "hp52_hampden_tbmk1_utk1_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "hp52_hampden_tbmk1_utk1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "hunter_f58a_1971_switzerland",
+    "name": "Hunter F.58A (Switzerland, 1971)",
+    "country": "Germany",
+    "role": "Fighter",
+    "weapons_default": [
+      "hunter_f58a_1971_switzerland_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "hunter_f58a_1971_switzerland.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "j_10c",
+    "name": "J-10C (China)",
+    "country": "China",
+    "role": "Fighter",
+    "weapons_default": [
+      "j_10c_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "j_10c.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "j_15t",
+    "name": "J-15T (China)",
+    "country": "China",
+    "role": "Fighter",
+    "weapons_default": [
+      "j_15t_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "j_15t.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "jh_7",
+    "name": "JH-7 (China)",
+    "country": "China",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "jh_7_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "jh_7.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "jh_7a_prototype",
+    "name": "JH-7A Prototype (China)",
+    "country": "China",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "jh_7a_prototype_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "jh_7a_prototype.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "kor_2",
+    "name": "Kor-2 (USSR)",
+    "country": "USSR",
+    "role": "Bomber",
+    "weapons_default": [
+      "kor_2_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "kor_2.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "l_39za",
+    "name": "L-39ZA (USSR)",
+    "country": "USSR",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "l_39za_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "l_39za.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "marut_mk1",
+    "name": "HF-24 (Great Britain)",
+    "country": "Great Britain",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "marut_mk1_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "marut_mk1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mb_326b",
+    "name": "MB.326B (Italy)",
+    "country": "Italy",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "mb_326b_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mb_326b.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mb_326k",
+    "name": "MB.326K (Italy)",
+    "country": "Italy",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "mb_326k_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mb_326k.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "md_450b_ouragan_iaf_29",
+    "name": "M.D.450B Ouragan (IAF No.29)",
+    "country": "Israel",
+    "role": "Fighter",
+    "weapons_default": [
+      "md_450b_ouragan_iaf_29_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "md_450b_ouragan_iaf_29.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "md_460_usa",
+    "name": "M.D.460 (USA)",
+    "country": "USA",
+    "role": "Fighter",
+    "weapons_default": [
+      "md_460_usa_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "md_460_usa.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "me_210_v22_japan",
+    "name": "Me 210 V.22 (Japan)",
+    "country": "Japan",
+    "role": "Fighter",
+    "weapons_default": [
+      "me_210_v22_japan_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "me_210_v22_japan.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "me_210a_1",
+    "name": "Me 210A-1 (Germany)",
+    "country": "Germany",
+    "role": "Fighter",
+    "weapons_default": [
+      "me_210a_1_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "me_210a_1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "me_210ca_1_40_mm_hungary",
+    "name": "Me 210Ca-1 (40 mm) (Hungary)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "me_210ca_1_40_mm_hungary_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "me_210ca_1_40_mm_hungary.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "me_210ca_1_hungary",
+    "name": "Me 210Ca-1 (Hungary)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "me_210ca_1_hungary_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "me_210ca_1_hungary.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mig_25pd",
+    "name": "MiG-25PD (USSR)",
+    "country": "USSR",
+    "role": "Fighter",
+    "weapons_default": [
+      "mig_25pd_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mig_25pd.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mig_29_9_12",
+    "name": "MiG-29 (9-12) (USSR)",
+    "country": "USSR",
+    "role": "Fighter",
+    "weapons_default": [
+      "mig_29_9_12_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mig_29_9_12.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mig_29_9_12_sniper",
+    "name": "MiG-29 Sniper (Italy)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "mig_29_9_12_sniper_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mig_29_9_12_sniper.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mig_29m_9_15",
+    "name": "MiG-29M (9-15) (USSR)",
+    "country": "USSR",
+    "role": "Fighter",
+    "weapons_default": [
+      "mig_29m_9_15_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mig_29m_9_15.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mig_29n",
+    "name": "MiG-29N (Japan)",
+    "country": "Japan",
+    "role": "Fighter",
+    "weapons_default": [
+      "mig_29n_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mig_29n.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mirage_3s_c70_switzerland",
+    "name": "Mirage IIIS C.70 (Switzerland)",
+    "country": "Germany",
+    "role": "Fighter",
+    "weapons_default": [
+      "mirage_3s_c70_switzerland_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mirage_3s_c70_switzerland.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mosquito_b_mk16",
+    "name": "Mosquito B.Mk.XVI (Great Britain)",
+    "country": "Great Britain",
+    "role": "Bomber",
+    "weapons_default": [
+      "mosquito_b_mk16_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mosquito_b_mk16.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mosquito_f_mk2_norway",
+    "name": "Mosquito F.Mk.II (Norway)",
+    "country": "Sweden",
+    "role": "Fighter",
+    "weapons_default": [
+      "mosquito_f_mk2_norway_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mosquito_f_mk2_norway.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mosquito_fb_mk6_ash_norway",
+    "name": "Mosquito FB.Mk.VI ASH (Norway)",
+    "country": "Sweden",
+    "role": "Fighter",
+    "weapons_default": [
+      "mosquito_fb_mk6_ash_norway_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mosquito_fb_mk6_ash_norway.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mosquito_fb_mk6_norway",
+    "name": "Mosquito FB.Mk.VI (Norway)",
+    "country": "Sweden",
+    "role": "Fighter",
+    "weapons_default": [
+      "mosquito_fb_mk6_norway_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mosquito_fb_mk6_norway.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mosquito_j30_sweden",
+    "name": "Mosquito J 30 (Sweden)",
+    "country": "Sweden",
+    "role": "Fighter",
+    "weapons_default": [
+      "mosquito_j30_sweden_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mosquito_j30_sweden.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mosquito_nf_mk2",
+    "name": "Mosquito NF.Mk.II (Great Britain)",
+    "country": "Great Britain",
+    "role": "Fighter",
+    "weapons_default": [
+      "mosquito_nf_mk2_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mosquito_nf_mk2.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mosquito_tr_mk33",
+    "name": "Mosquito TR.Mk.33 (Great Britain)",
+    "country": "Great Britain",
+    "role": "Bomber",
+    "weapons_default": [
+      "mosquito_tr_mk33_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mosquito_tr_mk33.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "nf_5a_netherlands",
+    "name": "NF-5A (Netherlands)",
+    "country": "France",
+    "role": "Fighter",
+    "weapons_default": [
+      "nf_5a_netherlands_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "nf_5a_netherlands.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "os2u_1_naval",
+    "name": "OS2U-1 (Naval)",
+    "country": "USA",
+    "role": "Bomber",
+    "weapons_default": [
+      "os2u_1_naval_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "os2u_1_naval.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "pe-2-359_china",
+    "name": "Pe-2-359 (China)",
+    "country": "China",
+    "role": "Bomber",
+    "weapons_default": [
+      "pe-2-359_china_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "pe-2-359_china.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "po-2_nw",
+    "name": "Po-2 NW (USSR)",
+    "country": "USSR",
+    "role": "Bomber",
+    "weapons_default": [
+      "po-2_nw_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "po-2_nw.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "quing_6",
+    "name": "Qiang-6 (China)",
+    "country": "China",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "quing_6_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "quing_6.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "rafale_m_f3r",
+    "name": "Rafale M F3-R (France)",
+    "country": "France",
+    "role": "Fighter",
+    "weapons_default": [
+      "rafale_m_f3r_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "rafale_m_f3r.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "re_2000_ga_ep",
+    "name": "Re.2000 GA EP (Italy)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "re_2000_ga_ep_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "re_2000_ga_ep.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "re_2000_heja_1",
+    "name": "Re.2000 Heja I (Italy)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "re_2000_heja_1_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "re_2000_heja_1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "re_2000_heja_2",
+    "name": "Re.2000 Heja II (Italy)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "re_2000_heja_2_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "re_2000_heja_2.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "re_2005_vdm",
+    "name": "Re.2005 (VDM) (Italy)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "re_2005_vdm_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "re_2005_vdm.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "saab_f35_wdns",
+    "name": "Saab F-35 (WDNS)",
+    "country": "Sweden",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "saab_f35_wdns_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "saab_f35_wdns.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "saab_jas39d",
+    "name": "JAS39D (Sweden)",
+    "country": "Sweden",
+    "role": "Fighter",
+    "weapons_default": [
+      "saab_jas39d_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "saab_jas39d.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "saab_jas39e",
+    "name": "JAS39E (Sweden)",
+    "country": "Sweden",
+    "role": "Fighter",
+    "weapons_default": [
+      "saab_jas39e_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "saab_jas39e.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "sb_25j_netherlands",
+    "name": "Short Sunderland (Netherlands)",
+    "country": "France",
+    "role": "Bomber",
+    "weapons_default": [
+      "sb_25j_netherlands_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "sb_25j_netherlands.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "sc_1",
+    "name": "SC-1 (USA)",
+    "country": "USA",
+    "role": "Fighter",
+    "weapons_default": [
+      "sc_1_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "sc_1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "spad_13",
+    "name": "SPAD S.XIII (France)",
+    "country": "France",
+    "role": "Fighter",
+    "weapons_default": [
+      "spad_13_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "spad_13.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "su_30mk2v_venezuela",
+    "name": "Su-30MK2 AMV (USSR)",
+    "country": "USSR",
+    "role": "Fighter",
+    "weapons_default": [
+      "su_30mk2v_venezuela_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "su_30mk2v_venezuela.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "su_30mkk",
+    "name": "Su-30MKK (China)",
+    "country": "China",
+    "role": "Fighter",
+    "weapons_default": [
+      "su_30mkk_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "su_30mkk.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "su_30mkm",
+    "name": "Su-30MKM (Japan)",
+    "country": "Japan",
+    "role": "Fighter",
+    "weapons_default": [
+      "su_30mkm_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "su_30mkm.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "su_30sm2",
+    "name": "Su-30SM2 (USSR)",
+    "country": "USSR",
+    "role": "Fighter",
+    "weapons_default": [
+      "su_30sm2_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "su_30sm2.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "tornado_ids_de_assta3_sle",
+    "name": "Tornado IDS SLE (Germany)",
+    "country": "Germany",
+    "role": "Strike Aircraft",
+    "weapons_default": [
+      "tornado_ids_de_assta3_sle_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "tornado_ids_de_assta3_sle.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "walrmk1",
+    "name": "Walrus Mk.1 (Great Britain)",
+    "country": "Great Britain",
+    "role": "Bomber",
+    "weapons_default": [
+      "walrmk1_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "walrmk1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "wm_21",
+    "name": "WM.21 Solyom (Italy)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "wm_21_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "wm_21.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "wm_23",
+    "name": "WM.23 (Italy)",
+    "country": "Italy",
+    "role": "Fighter",
+    "weapons_default": [
+      "wm_23_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "wm_23.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "xf5u_1",
+    "name": "XF5U-1 (USA)",
+    "country": "USA",
+    "role": "Fighter",
+    "weapons_default": [
+      "xf5u_1_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "xf5u_1.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "yak_1_litvyak",
+    "name": "Yak-1 (Litvyak) (USSR)",
+    "country": "USSR",
+    "role": "Fighter",
+    "weapons_default": [
+      "yak_1_litvyak_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "yak_1_litvyak.png",
+    "ammo": [
+      "N/A"
+    ]
   }
 ]

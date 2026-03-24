@@ -1978,5 +1978,173 @@
     "ammo": [
       "N/A"
     ]
+  },
+  {
+    "ID": "ah_56a",
+    "name": "AH-56A (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_56a_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_56a.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64d_lightweight_japan",
+    "name": "AH-64DJP (AT) (Japan)",
+    "country": "Japan",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64d_lightweight_japan_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64d_lightweight_japan.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64e",
+    "name": "AH-64E (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64e_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64e.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64e_britain",
+    "name": "AH Mk.2 (Great Britain)",
+    "country": "Great Britain",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64e_britain_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64e_britain.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64e_china",
+    "name": "AH-64E (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64e_china_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64e_china.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64e_indonesia",
+    "name": "AH-64E (Indonesia)",
+    "country": "Japan",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64e_indonesia_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64e_indonesia.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "ah_64e_netherlands",
+    "name": "AH-64E (Netherlands)",
+    "country": "France",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "ah_64e_netherlands_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "ah_64e_netherlands.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_35p",
+    "name": "Mi-35P (USSR)",
+    "country": "USSR",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_35p_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_35p.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "mi_35p_indonesia",
+    "name": "Mi-35P (Indonesia)",
+    "country": "Japan",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "mi_35p_indonesia_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "mi_35p_indonesia.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "rah_66",
+    "name": "RAH-66 (USA)",
+    "country": "USA",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "rah_66_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "rah_66.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "z_10a",
+    "name": "Z-10A (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "z_10a_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "z_10a.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "z_10me",
+    "name": "Z-10ME (China)",
+    "country": "China",
+    "role": "Attack Helicopter",
+    "weapons_default": [
+      "z_10me_default"
+    ],
+    "ammo_amount": 9999,
+    "image": "z_10me.png",
+    "ammo": [
+      "N/A"
+    ]
   }
 ]

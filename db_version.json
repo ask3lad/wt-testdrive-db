@@ -1,11 +1,11 @@
 {
-    "version": 2.0,
-    "date": "23 March 2026",
-    "time": "07:35pm",
+    "version": 2.1,
+    "date": "24 March 2026",
+    "time": "03:44pm",
     "notes": [
-        "Tank database: updated to Ninth Wave",
-        "Added Aircraft database: 1,207 planes",
-        "Added Helicopter database: 97 helicopters",
-        "Added Ship database: 564 ships"
+        "Tank database: updated to Ninth Wave (total: 1,181)",
+        "Aircraft database: updated to Ninth Wave, added 97 planes (total: 1,304)",
+        "Helicopter database: updated to Ninth Wave, added 12 helicopters (total: 111)",
+        "Ship database: updated to Ninth Wave (total: 564)"
     ]
 }
