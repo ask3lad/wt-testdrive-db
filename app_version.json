@@ -1,11 +1,9 @@
 {
-    "version": "2.1",
+    "version": "2.2",
     "notes": [
-        "Added Dark Mode",
-        "Added Mass Slider",
-        "Added Ammo Loadout",
-        "Added Multi-ammo Selection",
-        "Added In-game Display Name for Ammunition",
+        "Added Setup Wizard",
+        "Added Naval Ammo Selection",
+        "Added In-game Display Names for Naval Ammunition",
         "Fixed Bugs and Issues"
     ]
 }

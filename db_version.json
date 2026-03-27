@@ -1,13 +1,13 @@
 {
-    "version": 3.1,
-    "date": "26 March 2026",
-    "time": "02:07pm",
+    "version": 3.2,
+    "date": "28 March 2026",
+    "time": "12:58am",
     "notes": [
         "Tank database: updated to Ninth Wave (total: 1,181)",
         "Aircraft database: updated to Ninth Wave, added 97 planes (total: 1,304)",
         "Helicopter database: updated to Ninth Wave, added 12 helicopters (total: 111)",
         "Ship database: updated to Ninth Wave (total: 564)",
-        "Added ammunition display names for ground vehicles",
-        "Added belt and ammo data for ground vehicles"
+        "Added ammo type data for all 564 naval ships",
+        "Added in-game display names for naval ammunition (1,055 entries total)"
     ]
 }

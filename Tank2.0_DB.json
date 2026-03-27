@@ -5717,7 +5717,7 @@
     "name": "IT-1 (USSR)",
     "country": "USSR",
     "role": "Tank Destroyer",
-    "weapons_default": "ussr_it_1_default",
+    "weapons_default": "it_1_default",
     "image": "ussr_it_1.png",
     "ammo": [
       "180mm_2k4_atgm"
@@ -18630,6 +18630,20 @@
     "ammo": [
       "360mm_9m317m_aam"
     ]
+  },
+  {
+    "ID": "ussr_buk_m3_launcher",
+    "name": "9K317M 'BUK-M3' (TELAR) (USSR)",
+    "country": "USSR",
+    "role": "SPAA",
+    "weapons_default": "ussr_buk_m3_launcher_default",
+    "image": "ussr_buk_m3_fcs.png",
+    "ammo": [
+      "360mm_9m317m_aam"
+    ],
+    "ammo_limits": {
+      "360mm": 6
+    }
   },
   {
     "ID": "ussr_bmd_4m2",
