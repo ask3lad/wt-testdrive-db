@@ -11326,7 +11326,7 @@
     "name": "ISU-122 (China)",
     "country": "China",
     "role": "Tank Destroyer",
-    "weapons_default": "cn_isu_122_default",
+    "weapons_default": "ussr_isu_122_default",
     "image": "cn_isu_122.png",
     "ammo": [
       "122mm_ussr_APHE",
@@ -11341,7 +11341,7 @@
     "name": "ISU-152 (China)",
     "country": "China",
     "role": "Tank Destroyer",
-    "weapons_default": "cn_isu_152_default",
+    "weapons_default": "ussr_isu_152_default",
     "image": "cn_isu_152.png",
     "ammo": [
       "152mm_ussr_APHEBC",
@@ -11448,7 +11448,7 @@
     "name": "M36 GMC (China)",
     "country": "China",
     "role": "Tank Destroyer",
-    "weapons_default": "cn_m36_default",
+    "weapons_default": "us_m36_default",
     "image": "cn_m36.png",
     "ammo": [
       "90mm_us_M313_Smoke",
@@ -11658,7 +11658,7 @@
     "name": "M8 HMC (China)",
     "country": "China",
     "role": "Tank Destroyer",
-    "weapons_default": "cn_m8_scott_default",
+    "weapons_default": "us_m8_scott_default",
     "image": "cn_m8_scott.png",
     "ammo": [
       "75mm_us_M89_Smoke",
@@ -11674,7 +11674,7 @@
     "name": "M8 LAC (China)",
     "country": "China",
     "role": "Light Tank",
-    "weapons_default": "cn_m8_greyhound_default",
+    "weapons_default": "us_m8_greyhound_default",
     "image": "cn_m8_greyhound.png",
     "ammo": [
       "37mm_usa_m3_APC"
@@ -11910,7 +11910,7 @@
     "name": "SU-100 (China)",
     "country": "China",
     "role": "Tank Destroyer",
-    "weapons_default": "cn_su_100_1945_default",
+    "weapons_default": "ussr_su_100_1945_default",
     "image": "cn_su_100_1945.png",
     "ammo": [
       "100mm_ussr_APCBC",
@@ -11927,7 +11927,7 @@
     "name": "SU-76M (China)",
     "country": "China",
     "role": "Tank Destroyer",
-    "weapons_default": "cn_su_76m_1943_default",
+    "weapons_default": "ussr_su_76m_1943_default",
     "image": "cn_su_76m_1943.png",
     "ammo": [
       "76mm_APCR_1943",
@@ -18790,7 +18790,7 @@
     "name": "M55 (China)",
     "country": "China",
     "role": "Tank Destroyer",
-    "weapons_default": "cn_m55_default",
+    "weapons_default": "us_m55_default",
     "image": "cn_m55.png",
     "ammo": [
       "203mm_usa_HE"
@@ -19103,7 +19103,7 @@
     "name": "Tor-M1 (USSR)",
     "country": "USSR",
     "role": "SPAA",
-    "weapons_default": "ussr_tor_m1_default",
+    "weapons_default": "cn_tor_m1_default",
     "image": "ussr_tor_m1.png",
     "ammo": [
       "239mm_9m331_aam"

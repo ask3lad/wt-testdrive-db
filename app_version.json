@@ -1,9 +1,9 @@
 {
-    "version": "2.2",
+    "version": "2.3",
     "notes": [
-        "Added Setup Wizard",
-        "Added Naval Ammo Selection",
-        "Added In-game Display Names for Naval Ammunition",
+        "Added Custom Map toggle button (enables/disables the custom minimap)",
+        "Added Shooters tab — enable/disable and change all 8 background ships",
+        "Added Rapid Fire to Naval Experimental tab",
         "Fixed Bugs and Issues"
     ]
 }
