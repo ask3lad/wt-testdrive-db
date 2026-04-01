@@ -749,7 +749,7 @@
     "name": "M2A4 1st ArmDiv (USA)",
     "country": "USA",
     "role": "Light Tank",
-    "weapons_default": "us_m2a4_1st_armor_div_default",
+    "weapons_default": "us_m2a4_default",
     "image": "us_m2a4_1st_armor_div.png",
     "ammo": [
       "37mm_usa_m3_APC"
@@ -881,7 +881,7 @@
     "name": "M3A1 USMC (USA)",
     "country": "USA",
     "role": "Light Tank",
-    "weapons_default": "us_m3a1_stuart_usmc_default",
+    "weapons_default": "us_m3a1_stuart_default",
     "image": "us_m3a1_stuart_usmc.png",
     "ammo": [
       "37mm_usa_m3_APC"
@@ -1306,7 +1306,7 @@
     "name": "M5A1 TD (USA)",
     "country": "USA",
     "role": "Light Tank",
-    "weapons_default": "us_m5a1_stuart_td_default",
+    "weapons_default": "us_m5a1_stuart_default",
     "image": "us_m5a1_stuart_td.png",
     "ammo": [
       "37mm_usa_m3_APC",
@@ -1453,7 +1453,7 @@
     "name": "M728 CEV (USA)",
     "country": "USA",
     "role": "Medium Tank",
-    "weapons_default": "us_m728_default",
+    "weapons_default": "us_m60_default",
     "image": "us_m728.png",
     "ammo": [
       "165mm_us_HESH"
@@ -1627,7 +1627,7 @@
     "name": "Skink (USA)",
     "country": "USA",
     "role": "SPAA",
-    "weapons_default": "us_skink_aa_default",
+    "weapons_default": "uk_skink_aa_default",
     "image": "us_skink_aa.png",
     "ammo": [
       "20mm_Oerlikon_AP",
@@ -1646,7 +1646,7 @@
     "name": "Stuart VI 5th CAD (USA)",
     "country": "USA",
     "role": "Light Tank",
-    "weapons_default": "us_m5a1_stuart_canadian_5st_arm_default",
+    "weapons_default": "us_m5a1_stuart_default",
     "image": "us_m5a1_stuart_canadian_5st_arm.png",
     "ammo": [
       "37mm_usa_m3_APC",
@@ -2282,7 +2282,7 @@
     "name": "Bfw Jagdpanther G1 (Germany)",
     "country": "Germany",
     "role": "Tank Destroyer",
-    "weapons_default": "germ_panzerbefelhswagen_jagdpanther_default",
+    "weapons_default": "germ_panzerjager_panther_default",
     "image": "germ_panzerbefelhswagen_jagdpanther.png",
     "ammo": [
       "88mm_ger_kwk43_APCR",
@@ -2635,7 +2635,7 @@
     "name": "JPz 45 (Germany)",
     "country": "Germany",
     "role": "Tank Destroyer",
-    "weapons_default": "germ_kanonenjagdpanzer_default",
+    "weapons_default": "germ_jpz_4_5_default",
     "image": "germ_kanonenjagdpanzer.png",
     "ammo": [
       "90mm_us_M431_HEAT",
@@ -2745,12 +2745,12 @@
     }
   },
   {
-    "ID": "germ_kv_1b_finland",
+    "ID": "germ_kv_1B_finland",
     "name": "KV-IB (Finnish) (Germany)",
     "country": "Germany",
     "role": "Heavy Tank",
-    "weapons_default": "germ_kv_1e_default",
-    "image": "germ_kv_1b_finland.png",
+    "weapons_default": "ussr_kv_1e_default",
+    "image": "germ_kv_1B_finland.png",
     "ammo": [
       "76mm_AP_1942",
       "76mm_ussr_HE",
@@ -2781,7 +2781,7 @@
     "name": "KW II 754 (r) (Germany)",
     "country": "Germany",
     "role": "Heavy Tank",
-    "weapons_default": "germ_kv_2_1940_default",
+    "weapons_default": "ussr_kv_2_1940_default",
     "image": "germ_kv_2_754r.png",
     "ammo": [
       "152mm_ussr_APCBC",
@@ -5349,7 +5349,7 @@
     "name": "BT-7 TD (USSR)",
     "country": "USSR",
     "role": "Light Tank",
-    "weapons_default": "ussr_bt_7_1937_td_default",
+    "weapons_default": "ussr_bt_7_1937_default",
     "image": "ussr_bt_7_1937_td.png",
     "ammo": [
       "45mm_ussr_AP_1942"
@@ -5577,7 +5577,7 @@
     "name": "IS-2 No.321 (USSR)",
     "country": "USSR",
     "role": "Heavy Tank",
-    "weapons_default": "ussr_is_2_1944_321_default",
+    "weapons_default": "ussr_is_2_1944_default",
     "image": "ussr_is_2_1944_321.png",
     "ammo": [
       "122mm_ussr_APCBC",
@@ -5735,7 +5735,7 @@
     "name": "IX Valentine (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_valentine_mk_9_default",
+    "weapons_default": "uk_valentine_mk_9_default",
     "image": "ussr_valentine_mk_9.png",
     "ammo": [
       "57mm_britain_6pdr_APC",
@@ -5948,7 +5948,7 @@
     "name": "M3 Medium (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_m3c_default",
+    "weapons_default": "us_m3_lee_default",
     "image": "ussr_m3c.png",
     "ammo": [
       "37mm_usa_m3_AP",
@@ -5968,7 +5968,7 @@
     "name": "M4A2 (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_m4a2_76w_sherman_default",
+    "weapons_default": "us_m4a2_76w_sherman_default",
     "image": "ussr_m4a2_76w_sherman.png",
     "ammo": [
       "76mm_usa_APCBC",
@@ -5998,12 +5998,12 @@
     "belt_type_limit": 3
   },
   {
-    "ID": "ussr_a_12_mk_2_matilda_2a_f96",
+    "ID": "ussr_a_12_mk_2_matilda_2A_F96",
     "name": "MK-II Matilda (USSR)",
     "country": "USSR",
     "role": "Heavy Tank",
-    "weapons_default": "ussr_a_12_mk_2_matilda_2a_f96_default",
-    "image": "ussr_a_12_mk_2_matilda_2a_f96.png",
+    "weapons_default": "ussr_a_12_mk_2_matilda_2A_F96_default",
+    "image": "ussr_a_12_mk_2_matilda_2A_F96.png",
     "ammo": [
       "76mm_AP_1941",
       "76mm_AP_1942",
@@ -6235,7 +6235,7 @@
     "name": "Phng khng T-34 (USSR)",
     "country": "USSR",
     "role": "SPAA",
-    "weapons_default": "ussr_type_65_aa_default",
+    "weapons_default": "cn_type_65_aa_default",
     "image": "ussr_type_65_aa.png",
     "ammo": [
       "37mm_ussr_61K_AP",
@@ -6467,7 +6467,7 @@
     "name": "SU-76M (5th Gv.Kav.Corps) (USSR)",
     "country": "USSR",
     "role": "Tank Destroyer",
-    "weapons_default": "ussr_su_76m_5st_kav_corps_default",
+    "weapons_default": "ussr_su_76m_1943_default",
     "image": "ussr_su_76m_5st_kav_corps.png",
     "ammo": [
       "76mm_APCR_1943",
@@ -6632,12 +6632,12 @@
     }
   },
   {
-    "ID": "ussr_t_26_1940_1st_gvtbr",
+    "ID": "ussr_t_26_1940_1st_GvTBr",
     "name": "T-26 (1st Gv.T.Br.) (USSR)",
     "country": "USSR",
     "role": "Light Tank",
-    "weapons_default": "ussr_t_26_1940_1st_gvtbr_default",
-    "image": "ussr_t_26_1940_1st_gvtbr.png",
+    "weapons_default": "ussr_t_26_1940_default",
+    "image": "ussr_t_26_1940_1st_GvTBr.png",
     "ammo": [
       "45mm_ussr_AP_1942"
     ],
@@ -6722,7 +6722,7 @@
     "name": "T-34 (1st Gv.T.Br.) (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_t_34_1941_cast_turret_default",
+    "weapons_default": "ussr_t_34E_default",
     "image": "ussr_t_34_1941_cast_turret.png",
     "ammo": [
       "76mm_AP_1941",
@@ -6740,7 +6740,7 @@
     "name": "T-34 (Prototype) (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_t_34_1940_l_11_default",
+    "weapons_default": "ussr_t_34_1941_l_11_default",
     "image": "ussr_t_34_1940_l_11.png",
     "ammo": [
       "76mm_AP_1942",
@@ -6885,12 +6885,12 @@
     }
   },
   {
-    "ID": "ussr_t_34_85e",
+    "ID": "ussr_t_34_85E",
     "name": "T-34-85E (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_t_34_85e_default",
-    "image": "ussr_t_34_85e.png",
+    "weapons_default": "ussr_t_34_85E_default",
+    "image": "ussr_t_34_85E.png",
     "ammo": [
       "85mm_ussr_APCR",
       "85mm_ussr_APHE",
@@ -6901,12 +6901,12 @@
     }
   },
   {
-    "ID": "ussr_t_34e",
+    "ID": "ussr_t_34E",
     "name": "T-34E (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_t_34e_default",
-    "image": "ussr_t_34e.png",
+    "weapons_default": "ussr_t_34E_default",
+    "image": "ussr_t_34E.png",
     "ammo": [
       "76mm_APCR_1943",
       "76mm_AP_1941",
@@ -7511,12 +7511,12 @@
     }
   },
   {
-    "ID": "ussr_pzkpfw_iii_ausf_j_l42",
+    "ID": "ussr_pzkpfw_III_ausf_J_L42",
     "name": "T-III (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_pzkpfw_iii_ausf_j_l42_default",
-    "image": "ussr_pzkpfw_iii_ausf_j_l42.png",
+    "weapons_default": "germ_pzkpfw_III_ausf_F_default",
+    "image": "ussr_pzkpfw_III_ausf_J_L42.png",
     "ammo": [
       "50mm_ger_kwk38_APCR2"
     ],
@@ -7525,12 +7525,12 @@
     }
   },
   {
-    "ID": "ussr_pzkpfw_v",
+    "ID": "ussr_pzkpfw_V",
     "name": "T-V (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_pzkpfw_v_default",
-    "image": "ussr_pzkpfw_v.png",
+    "weapons_default": "",
+    "image": "ussr_pzkpfw_V.png",
     "ammo": [
       "75mm_ger_kwk42_HE"
     ],
@@ -7797,7 +7797,7 @@
     "name": "Grant I (Great Britain)",
     "country": "Great Britain",
     "role": "Medium Tank",
-    "weapons_default": "uk_mk1_grant_default",
+    "weapons_default": "us_mk1_grant_default",
     "image": "uk_mk1_grant.png",
     "ammo": [
       "37mm_usa_m3_AP",
@@ -7866,7 +7866,7 @@
     "name": "A13 Mk I 3rd RTR (Great Britain)",
     "country": "Great Britain",
     "role": "Light Tank",
-    "weapons_default": "uk_a_13_mk1_3rd_rtr_default",
+    "weapons_default": "uk_a_13_mk1_default",
     "image": "uk_a_13_mk1_3rd_rtr.png",
     "ammo": [
       "40mm_uk_2pdr_APCBC",
@@ -7984,7 +7984,7 @@
     "name": "Achilles (65 Rg.) (Great Britain)",
     "country": "Great Britain",
     "role": "Tank Destroyer",
-    "weapons_default": "uk_17_pdr_m10_achilles_norfolk_yeomanry_default",
+    "weapons_default": "uk_17_pdr_m10_achilles_default",
     "image": "uk_17_pdr_m10_achilles_norfolk_yeomanry.png",
     "ammo": [
       "76mm_britain_17pdr_APC",
@@ -8300,7 +8300,7 @@
     "name": "Challenger 2 OES (Great Britain)",
     "country": "Great Britain",
     "role": "Medium Tank",
-    "weapons_default": "uk_challenger_2_megatron_default",
+    "weapons_default": "uk_challenger_2_tes_megatron_default",
     "image": "uk_challenger_2_megatron.png",
     "ammo": [
       "120mm_britain_L26_APDSFS",
@@ -8629,7 +8629,7 @@
     "name": "Comet I 'Iron Duke IV' (Great Britain)",
     "country": "Great Britain",
     "role": "Medium Tank",
-    "weapons_default": "uk_a_34_comet_iron_duke_default",
+    "weapons_default": "uk_a_34_comet_default",
     "image": "uk_a_34_comet_iron_duke.png",
     "ammo": [
       "76mm_britain_17pdr_APC",
@@ -9185,7 +9185,7 @@
     "name": "QF 3.7 Ram (Great Britain)",
     "country": "Great Britain",
     "role": "Tank Destroyer",
-    "weapons_default": "uk_ram_90mm_aa_default",
+    "weapons_default": "uk_ram_90mm_aa",
     "image": "uk_ram_90mm_aa.png",
     "ammo": [
       "94mm_britain_32pdr_HE"
@@ -9691,7 +9691,7 @@
     "name": "VFM5 (Great Britain)",
     "country": "Great Britain",
     "role": "Light Tank",
-    "weapons_default": "uk_vfm_5_default",
+    "weapons_default": "uk_vfm_5__default",
     "image": "uk_vfm_5.png",
     "ammo": [
       "105mm_NATO_APDS_FS",
@@ -9938,7 +9938,7 @@
     "name": "Chi-Ha Kai TD (Japan)",
     "country": "Japan",
     "role": "Medium Tank",
-    "weapons_default": "jp_type_97_kai_td_default",
+    "weapons_default": "jp_type_97_kai_default",
     "image": "jp_type_97_kai_td.png",
     "ammo": [
       "47mm_type1_APHE",
@@ -9997,7 +9997,7 @@
     "name": "Chi-He 5th Regiment (Japan)",
     "country": "Japan",
     "role": "Medium Tank",
-    "weapons_default": "jp_type_1_chi_he_5th_regiment_default",
+    "weapons_default": "jp_type_1_chi_he_default",
     "image": "jp_type_1_chi_he_5th_regiment.png",
     "ammo": [
       "47mm_type1_APHE",
@@ -10108,7 +10108,7 @@
     "name": "Ha-Go Commander (Japan)",
     "country": "Japan",
     "role": "Light Tank",
-    "weapons_default": "jp_type_95_ha_go_commander_default",
+    "weapons_default": "jp_type_95_ha_go_default",
     "image": "jp_type_95_ha_go_commander.png",
     "ammo": [
       "37mm_type_94_APHE"
@@ -10134,12 +10134,12 @@
     }
   },
   {
-    "ID": "jp_type_3_ho_ni_i",
+    "ID": "jp_type_3_ho_ni_I",
     "name": "Ho-Ni I (Japan)",
     "country": "Japan",
     "role": "Tank Destroyer",
-    "weapons_default": "jp_type_3_ho_ni_i_default",
-    "image": "jp_type_3_ho_ni_i.png",
+    "weapons_default": "jp_type_3_ho_ni_I_default",
+    "image": "jp_type_3_ho_ni_I.png",
     "ammo": [
       "75mm_jp_Smoke",
       "75mm_type94_HE"
@@ -10149,12 +10149,12 @@
     }
   },
   {
-    "ID": "jp_type_3_ho_ni_iii",
+    "ID": "jp_type_3_ho_ni_III",
     "name": "Ho-Ni III (Japan)",
     "country": "Japan",
     "role": "Tank Destroyer",
-    "weapons_default": "jp_type_3_ho_ni_iii_default",
-    "image": "jp_type_3_ho_ni_iii.png",
+    "weapons_default": "jp_type_3_ho_ni_III_default",
+    "image": "jp_type_3_ho_ni_III.png",
     "ammo": [
       "75mm_jp_Smoke",
       "75mm_type94_HE"
@@ -10225,7 +10225,7 @@
     "name": "ICV P (Japan)",
     "country": "Japan",
     "role": "Light Tank",
-    "weapons_default": "jp_icv_ifv_prototype_default",
+    "weapons_default": "jp_icv_prototype_default",
     "image": "jp_icv_ifv_prototype.png",
     "ammo": [
       "30mm_173_APDS_FS",
@@ -10669,12 +10669,12 @@
     "belt_type_limit": 3
   },
   {
-    "ID": "jp_pzkpfw_vi_ausf_e_tiger",
+    "ID": "jp_pzkpfw_VI_ausf_e_tiger",
     "name": "Tiger (Japan)",
     "country": "Japan",
     "role": "Heavy Tank",
-    "weapons_default": "jp_pzkpfw_vi_ausf_e_tiger_default",
-    "image": "jp_pzkpfw_vi_ausf_e_tiger.png",
+    "weapons_default": "jp_pzkpfw_VI_ausf_e_tiger_default",
+    "image": "jp_pzkpfw_VI_ausf_e_tiger.png",
     "ammo": [
       "88mm_ger_kwk36_HEAT",
       "88mm_ger_kwk36_Pzgr_APCBC",
@@ -11018,7 +11018,7 @@
     "name": "Type 90 B (Japan)",
     "country": "Japan",
     "role": "Medium Tank",
-    "weapons_default": "jp_type_90b_default",
+    "weapons_default": "jp_type_90_default",
     "image": "jp_type_90b.png",
     "ammo": [
       "120mm_NATO_APDS_FS",
@@ -11155,7 +11155,7 @@
     "name": "BT-5 (China)",
     "country": "China",
     "role": "Medium Tank",
-    "weapons_default": "cn_bt_5_default",
+    "weapons_default": "ussr_bt_5_default",
     "image": "cn_bt_5.png",
     "ammo": [
       "45mm_ussr_AP_1942"
@@ -11311,7 +11311,7 @@
     "name": "IS-2 No.402 (China)",
     "country": "China",
     "role": "Heavy Tank",
-    "weapons_default": "cn_is_2_1943_no402_default",
+    "weapons_default": "ussr_is_2_default",
     "image": "cn_is_2_1943_no402.png",
     "ammo": [
       "122mm_ussr_APHE",
@@ -11464,7 +11464,7 @@
     "name": "M3A3 1st PTG (China)",
     "country": "China",
     "role": "Light Tank",
-    "weapons_default": "cn_m3a3_stuart_1st_ptg_default",
+    "weapons_default": "cn_m3a3_stuart_default",
     "image": "cn_m3a3_stuart_1st_ptg.png",
     "ammo": [
       "37mm_usa_m3_APC"
@@ -11492,7 +11492,7 @@
     "name": "M41A3 (China)",
     "country": "China",
     "role": "Light Tank",
-    "weapons_default": "cn_m41_a3_walker_bulldog_default",
+    "weapons_default": "us_m41_walker_bulldog_default",
     "image": "cn_m41_a3_walker_bulldog.png",
     "ammo": [
       "76mm_us_M361_Smoke",
@@ -11966,7 +11966,7 @@
     "name": "T-26 No.531 (China)",
     "country": "China",
     "role": "Light Tank",
-    "weapons_default": "cn_t_26_no531_default",
+    "weapons_default": "ussr_t_26_1940_default",
     "image": "cn_t_26_no531.png",
     "ammo": [
       "45mm_ussr_AP_1942"
@@ -12000,7 +12000,7 @@
     "name": "T-34-85 (S-53) (China)",
     "country": "China",
     "role": "Medium Tank",
-    "weapons_default": "cn_t_34_85_d_5t_default",
+    "weapons_default": "ussr_t_34_85_d_5t_default",
     "image": "cn_t_34_85_d_5t.png",
     "ammo": [
       "85mm_ussr_APCR",
@@ -12032,7 +12032,7 @@
     "name": "T-34-85 No.215 (China)",
     "country": "China",
     "role": "Medium Tank",
-    "weapons_default": "cn_t_34_85_zis_53_no215_default",
+    "weapons_default": "ussr_t_34_85_zis_53_default",
     "image": "cn_t_34_85_zis_53_no215.png",
     "ammo": [
       "85mm_ussr_APCR",
@@ -12097,7 +12097,7 @@
     "name": "T-26 (China)",
     "country": "China",
     "role": "Light Tank",
-    "weapons_default": "cn_t_26_1940_default",
+    "weapons_default": "ussr_t_26_1940_default",
     "image": "cn_t_26_1940.png",
     "ammo": [
       "45mm_ussr_AP_1942"
@@ -12144,7 +12144,7 @@
     "name": "Type 62 (China)",
     "country": "China",
     "role": "Light Tank",
-    "weapons_default": "cn_type_62_default",
+    "weapons_default": "ussr_type_62_default",
     "image": "cn_type_62.png",
     "ammo": [
       "85mm_ussr_APCBC",
@@ -12861,7 +12861,7 @@
     "name": "Ariete PSO (Italy)",
     "country": "Italy",
     "role": "Medium Tank",
-    "weapons_default": "it_c1_ariete_pso_default",
+    "weapons_default": "it_c1_ariete_default",
     "image": "it_c1_ariete_pso.png",
     "ammo": [
       "120mm_DM_APDS_FS",
@@ -13441,7 +13441,7 @@
     "name": "M18 (Italy)",
     "country": "Italy",
     "role": "Light Tank",
-    "weapons_default": "it_m18_hellcat_default",
+    "weapons_default": "us_m18_hellcat_default",
     "image": "it_m18_hellcat.png",
     "ammo": [
       "76mm_us_M88_Smoke",
@@ -13457,7 +13457,7 @@
     "name": "M24 (Italy)",
     "country": "Italy",
     "role": "Light Tank",
-    "weapons_default": "it_m24_chaffee_default",
+    "weapons_default": "us_m24_chaffee_default",
     "image": "it_m24_chaffee.png",
     "ammo": [
       "75mm_us_M89_Smoke",
@@ -13972,12 +13972,12 @@
     }
   },
   {
-    "ID": "it_pzkpfw_vi_ausf_e_tiger",
+    "ID": "it_pzkpfw_VI_ausf_e_tiger",
     "name": "Tigeris (Italy)",
     "country": "Italy",
     "role": "Heavy Tank",
-    "weapons_default": "it_pzkpfw_vi_ausf_e_tiger_default",
-    "image": "it_pzkpfw_vi_ausf_e_tiger.png",
+    "weapons_default": "germ_pzkpfw_VI_ausf_e_tiger_default",
+    "image": "it_pzkpfw_VI_ausf_e_tiger.png",
     "ammo": [
       "88mm_ger_kwk36_HEAT",
       "88mm_ger_kwk36_Pzgr_APCBC",
@@ -13988,12 +13988,12 @@
     }
   },
   {
-    "ID": "it_toldi_ii_a",
+    "ID": "it_toldi_II_a",
     "name": "Toldi IIA (Italy)",
     "country": "Italy",
     "role": "Light Tank",
-    "weapons_default": "it_toldi_ii_a_default",
-    "image": "it_toldi_ii_a.png",
+    "weapons_default": "it_toldi_II_a_default",
+    "image": "it_toldi_II_a.png",
     "ammo": [
       "40mm_hung_APBC",
       "40mm_hung_HE"
@@ -16798,7 +16798,7 @@
     "name": "Strv 81 (RB 52) (Sweden)",
     "country": "Sweden",
     "role": "Medium Tank",
-    "weapons_default": "sw_strv_81_rb52_default",
+    "weapons_default": "uk_centurion_mk_III_ss11_default",
     "image": "sw_strv_81_rb52.png",
     "ammo": [
       "84mm_britain_20pdr_APDS",
@@ -17227,7 +17227,7 @@
     "name": "AML-90 (Israel)",
     "country": "Israel",
     "role": "Light Tank",
-    "weapons_default": "il_aml_90_default",
+    "weapons_default": "fr_aml_90_default",
     "image": "il_aml_90.png",
     "ammo": [
       "90mm_CN90_HE",
@@ -17243,7 +17243,7 @@
     "name": "AMX-13 (Israel)",
     "country": "Israel",
     "role": "Light Tank",
-    "weapons_default": "il_amx_13_75_default",
+    "weapons_default": "fr_amx_13_75_default",
     "image": "il_amx_13_75.png",
     "ammo": [
       "75mm_SA50_APC",
@@ -17276,7 +17276,7 @@
     "name": "Giraf (Israel)",
     "country": "Israel",
     "role": "Tank Destroyer",
-    "weapons_default": "il_m113a1_tow_default",
+    "weapons_default": "it_m113a1_tow_default",
     "image": "il_m113a1_tow.png",
     "ammo": [
       "begleitpanzer_57_improvement_TOW"
@@ -17290,7 +17290,7 @@
     "name": "Hovet (Israel)",
     "country": "Israel",
     "role": "SPAA",
-    "weapons_default": "il_m163_vulcan_default",
+    "weapons_default": "us_m163_vulcan_default",
     "image": "il_m163_vulcan.png",
     "ammo": [
       "20mm_Vulcan_API",
@@ -17309,7 +17309,7 @@
     "name": "Imp.Chaparral (Israel)",
     "country": "Israel",
     "role": "SPAA",
-    "weapons_default": "il_mim_72_chaparral_default",
+    "weapons_default": "us_mim_72_chaparral_default",
     "image": "il_mim_72_chaparral.png",
     "ammo": [
       "127mm_MIM72A_aam",
@@ -18448,7 +18448,7 @@
     "name": "Sherman (Hell) (USA)",
     "country": "USA",
     "role": "Medium Tank",
-    "weapons_default": "us_m4a3e8_76w_sherman_kit_3rank_default",
+    "weapons_default": "us_m4a3e8_76w_sherman_default",
     "image": "us_m4a3e8_76w_sherman_kit_3rank.png",
     "ammo": [
       "76mm_us_M88_Smoke",
@@ -18465,7 +18465,7 @@
     "name": "Hellcat (Hell) (USA)",
     "country": "USA",
     "role": "Light Tank",
-    "weapons_default": "us_m18_hellcat_kit_3rank_default",
+    "weapons_default": "us_m18_hellcat_default",
     "image": "us_m18_hellcat_kit_3rank.png",
     "ammo": [
       "76mm_us_M88_Smoke",
@@ -18482,7 +18482,7 @@
     "name": "Skink (Hell) (USA)",
     "country": "USA",
     "role": "SPAA",
-    "weapons_default": "us_skink_aa_kit_3rank_default",
+    "weapons_default": "uk_skink_aa_default",
     "image": "us_skink_aa_kit_3rank.png",
     "ammo": [
       "20mm_Oerlikon_AP",
@@ -18534,7 +18534,7 @@
     "name": "T-34-85 ('45) (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_t_34_85_zis_53_kit_3rank_default",
+    "weapons_default": "ussr_t_34_85_zis_53_default",
     "image": "ussr_t_34_85_zis_53_kit_3rank.png",
     "ammo": [
       "85mm_ussr_APCR",
@@ -18566,7 +18566,7 @@
     "name": "Stingray (USA)",
     "country": "USA",
     "role": "Light Tank",
-    "weapons_default": "us_stingray_default",
+    "weapons_default": "jp_stingray_default",
     "image": "us_stingray.png",
     "ammo": [
       "105mm_NATO_APDS_FS",
@@ -18721,7 +18721,7 @@
     "name": "M60A3 TTS (Japan)",
     "country": "Japan",
     "role": "Medium Tank",
-    "weapons_default": "jp_m60a3_tts_default",
+    "weapons_default": "cn_m60a3_tts_default",
     "image": "jp_m60a3_tts.png",
     "ammo": [
       "105mm_NATO_APDS_FS",
