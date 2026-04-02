@@ -6096,7 +6096,7 @@
     "name": "Object 292 (USSR)",
     "country": "USSR",
     "role": "Medium Tank",
-    "weapons_default": "ussr_object_292_default",
+    "weapons_default": "object_292_default",
     "image": "ussr_object_292.png",
     "ammo": [
       "152mm_ussr_HE"
@@ -12326,7 +12326,7 @@
     "name": "ZBD86 (China)",
     "country": "China",
     "role": "Light Tank",
-    "weapons_default": "cn_type_86_default",
+    "weapons_default": "cn_zbd_86_default",
     "image": "cn_type_86.png",
     "ammo": [
       "73mm_ussr_2A28_HE",
@@ -14539,12 +14539,12 @@
     }
   },
   {
-    "ID": "fr_amx_30_acra",
+    "ID": "fr_amx_30_ACRA",
     "name": "AMX-30 ACRA (France)",
     "country": "France",
     "role": "Medium Tank",
-    "weapons_default": "fr_amx_30_acra_default",
-    "image": "fr_amx_30_acra.png",
+    "weapons_default": "fr_amx_30_ACRA_default",
+    "image": "fr_amx_30_ACRA.png",
     "ammo": [
       "142mm_fr_HE"
     ],
@@ -14577,7 +14577,7 @@
     "name": "AMX-30 Super (France)",
     "country": "France",
     "role": "Medium Tank",
-    "weapons_default": "fr_amx_30_super_default",
+    "weapons_default": "fr_amx_30_b2_default",
     "image": "fr_amx_30_super.png",
     "ammo": [
       "105mm_fr_CN105_APDSFS",
@@ -14864,7 +14864,7 @@
     "name": "CLOVIS (France)",
     "country": "France",
     "role": "Light Tank",
-    "weapons_default": "fr_marder_clovis_default",
+    "weapons_default": "germ_marder_clovis_default",
     "image": "fr_marder_clovis.png",
     "ammo": [
       "105mm_fr_CN105_HE",
@@ -15039,7 +15039,7 @@
     "name": "H.39 'Cambronne' (France)",
     "country": "France",
     "role": "Light Tank",
-    "weapons_default": "fr_hotchkiss_h39_cambronne_default",
+    "weapons_default": "fr_hotchkiss_h39_default",
     "image": "fr_hotchkiss_h39_cambronne.png",
     "ammo": [
       "37mm_SA38_APC"
@@ -15254,7 +15254,7 @@
     "name": "M10 GMC (France)",
     "country": "France",
     "role": "Tank Destroyer",
-    "weapons_default": "fr_m10_default",
+    "weapons_default": "us_m10_default",
     "image": "fr_m10.png",
     "ammo": [
       "76mm_usa_APCBC",
@@ -15269,7 +15269,7 @@
     "name": "M26 (France)",
     "country": "France",
     "role": "Medium Tank",
-    "weapons_default": "fr_m26_pershing_default",
+    "weapons_default": "us_m26_pershing_default",
     "image": "fr_m26_pershing.png",
     "ammo": [
       "90mm_us_M304_APCR",
@@ -15304,7 +15304,7 @@
     "name": "M3A3 Stuart (France)",
     "country": "France",
     "role": "Light Tank",
-    "weapons_default": "fr_m3a3_stuart_default",
+    "weapons_default": "cn_m3a3_stuart_default",
     "image": "fr_m3a3_stuart.png",
     "ammo": [
       "37mm_usa_m3_APC"
@@ -15351,7 +15351,7 @@
     "name": "M4A1 (France)",
     "country": "France",
     "role": "Medium Tank",
-    "weapons_default": "fr_m4a1_sherman_default",
+    "weapons_default": "us_m4a1_1942_sherman_default",
     "image": "fr_m4a1_sherman.png",
     "ammo": [
       "75mm_us_M89_Smoke",
@@ -15382,7 +15382,7 @@
     "name": "M4A3 (105) (France)",
     "country": "France",
     "role": "Medium Tank",
-    "weapons_default": "fr_m4a3_105_sherman_default",
+    "weapons_default": "us_m4a3_105_sherman_default",
     "image": "fr_m4a3_105_sherman.png",
     "ammo": [
       "105mm_us_M84_Smoke",
@@ -15397,7 +15397,7 @@
     "name": "M4A3E2 (France)",
     "country": "France",
     "role": "Heavy Tank",
-    "weapons_default": "fr_m4a3e2_sherman_jumbo_default",
+    "weapons_default": "us_m4a3e2_sherman_jumbo_default",
     "image": "fr_m4a3e2_sherman_jumbo.png",
     "ammo": [
       "75mm_us_M89_Smoke",
@@ -15414,7 +15414,7 @@
     "name": "M4A4 (France)",
     "country": "France",
     "role": "Medium Tank",
-    "weapons_default": "fr_m4a4_sherman_default",
+    "weapons_default": "cn_m4a4_sherman_default",
     "image": "fr_m4a4_sherman.png",
     "ammo": [
       "75mm_us_M89_Smoke",
@@ -15477,7 +15477,7 @@
     "name": "Marder DF 105 (France)",
     "country": "France",
     "role": "Light Tank",
-    "weapons_default": "fr_marder_df_105_default",
+    "weapons_default": "germ_marder_df_105_default",
     "image": "fr_marder_df_105.png",
     "ammo": [
       "105mm_fr_CN105_HE",
@@ -15503,12 +15503,12 @@
     }
   },
   {
-    "ID": "fr_pzkpfw_v_panther_dauphine",
+    "ID": "fr_pzkpfw_V_panther_dauphine",
     "name": "Panther 'DauphinÃ©' (France)",
     "country": "France",
     "role": "Medium Tank",
-    "weapons_default": "fr_pzkpfw_v_panther_dauphine_default",
-    "image": "fr_pzkpfw_v_panther_dauphine.png",
+    "weapons_default": "fr_pzkpfw_V_panther_dauphine_default",
+    "image": "fr_pzkpfw_V_panther_dauphine.png",
     "ammo": [
       "75mm_ger_kwk42_HE"
     ],
@@ -15602,7 +15602,7 @@
     "name": "SK105A2 (France)",
     "country": "France",
     "role": "Light Tank",
-    "weapons_default": "fr_sk105_a2_default",
+    "weapons_default": "germ_sk105_a2_default",
     "image": "fr_sk105_a2.png",
     "ammo": [
       "105mm_fr_CN105_APDSFS",
@@ -17344,7 +17344,7 @@
     "name": "M51 (Israel)",
     "country": "Israel",
     "role": "Medium Tank",
-    "weapons_default": "il_m_51_default",
+    "weapons_default": "il_m_51_w_default",
     "image": "il_m_51.png",
     "ammo": [
       "105mm_fr_CN105_HE",
@@ -17394,12 +17394,12 @@
     "belt_type_limit": 2
   },
   {
-    "ID": "il_m48a1_patton_iii",
+    "ID": "il_m48a1_patton_III",
     "name": "Magach 1 (Israel)",
     "country": "Israel",
     "role": "Medium Tank",
-    "weapons_default": "il_m48a1_patton_iii_default",
-    "image": "il_m48a1_patton_iii.png",
+    "weapons_default": "us_m48a1_patton_III_default",
+    "image": "il_m48a1_patton_III.png",
     "ammo": [
       "90mm_us_M313_Smoke",
       "90mm_us_M431_HEAT",
@@ -17450,7 +17450,7 @@
     "name": "Magach 3 ERA (Israel)",
     "country": "Israel",
     "role": "Medium Tank",
-    "weapons_default": "il_magach_3_default",
+    "weapons_default": "us_magach_3_default",
     "image": "il_magach_3.png",
     "ammo": [
       "105mm_us_M416_Smoke",
@@ -17710,7 +17710,7 @@
     "name": "Merkava Mk.4 LIC (Israel)",
     "country": "Israel",
     "role": "Medium Tank",
-    "weapons_default": "il_merkava_mk_4_lic_default",
+    "weapons_default": "il_merkava_mk_4b_default",
     "image": "il_merkava_mk_4_lic.png",
     "ammo": [
       "120mm_DM_APDS_FS",
@@ -17894,7 +17894,7 @@
     "name": "Sho't Kal Dalet (Israel)",
     "country": "Israel",
     "role": "Medium Tank",
-    "weapons_default": "il_centurion_shot_kal_d_default",
+    "weapons_default": "uk_centurion_shot_kal_d_default",
     "image": "il_centurion_shot_kal_d.png",
     "ammo": [
       "105mm_us_M416_Smoke",
@@ -17996,7 +17996,7 @@
     "name": "ZSU-23-4 (Israel)",
     "country": "Israel",
     "role": "SPAA",
-    "weapons_default": "il_zsu_23_4_default",
+    "weapons_default": "ussr_zsu_23_4_default",
     "image": "il_zsu_23_4.png",
     "ammo": [
       "23mm_ussr_APIT",

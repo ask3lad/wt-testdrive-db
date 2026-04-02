@@ -24430,5 +24430,42 @@
     "ammo": [
       "N/A"
     ]
+  },
+  {
+    "ID": "b_52h",
+    "name": "B-52H (USA)",
+    "country": "USA",
+    "role": "Bomber",
+    "weapons_default": [
+      "b_52h_default",
+      "b_52h_mk82_air",
+      "b_52h_mk117r",
+      "b_52h_mk117_air",
+      "b_52h_mk84"
+    ],
+    "ammo_amount": 9999,
+    "image": "b_52h.png",
+    "ammo": [
+      "N/A"
+    ]
+  },
+  {
+    "ID": "tu_95m",
+    "name": "Tu-95M (USSR)",
+    "country": "USSR",
+    "role": "Bomber",
+    "weapons_default": [
+      "tu_95m_nt_default",
+      "tu_95m_fab_500",
+      "tu_95m_fab_1500",
+      "tu_95m_fab_3000",
+      "tu_95m_fab_5000",
+      "tu_95m_fab_9000"
+    ],
+    "ammo_amount": 9999,
+    "image": "tu_95m.png",
+    "ammo": [
+      "N/A"
+    ]
   }
 ]
