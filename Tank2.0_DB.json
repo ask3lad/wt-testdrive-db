@@ -6405,7 +6405,7 @@
     "name": "L3/33 CC (Italy)",
     "country": "Italy",
     "role": "Tank Destroyer",
-    "weapons_default": "it_l3_cc_default",
+    "weapons_default": "it_L3_CC_default",
     "image": "it_l3_cc.png",
     "ammo": [
       "20mm_Controcarri_APHE"
