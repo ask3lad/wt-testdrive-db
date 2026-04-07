@@ -1,9 +1,11 @@
 {
-    "version": "2.3",
+    "version": "2.4",
     "notes": [
-        "Added Custom Map toggle button (enables/disables the custom minimap)",
-        "Added Shooters tab — enable/disable and change all 8 background ships",
-        "Added Rapid Fire to Naval Experimental tab",
+        "Added Crash Log system — errors are saved to Logs/ and reported automatically",
+        "Added Ground Weapon Override — equip any ground vehicle's weapons",
+        "Added Naval Weapon Override — equip any ship's weapons on a ground vehicle",
+        "Added Aircraft Weapon Override — equip bombs, missiles and rockets from aircraft and helicopters",
+        "Ammo Loadout is locked when any weapon override is active",
         "Fixed Bugs and Issues"
     ]
 }

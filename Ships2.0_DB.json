@@ -756,7 +756,7 @@
   {
     "ID": "fr_destroyer_hunt_3series",
     "country": "France",
-    "name": "La Combattante (France)",
+    "name": "La Combattante (France) [Bluewater]",
     "role": [
       "Destroyers"
     ],
@@ -1203,7 +1203,7 @@
   {
     "ID": "fr_p730_combattante",
     "country": "France",
-    "name": "La Combattante (France)",
+    "name": "La Combattante (France) [Coastal]",
     "role": [
       "Boats",
       "Gunboat"
