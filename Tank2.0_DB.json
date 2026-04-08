@@ -97,7 +97,7 @@
     "name": "2S1 (Italy)",
     "country": "Italy",
     "role": "Tank Destroyer",
-    "weapons_default": "it_2s1_default",
+    "weapons_default": "ussr_2s1_default",
     "image": "it_2s1.png",
     "ammo": [
       "122mm_ussr_3OF_56_HE",
@@ -6423,7 +6423,7 @@
     "name": "L6/40 (31 Rgt.) (Italy)",
     "country": "Italy",
     "role": "Light Tank",
-    "weapons_default": "it_l6_leone_default",
+    "weapons_default": "it_l6_default",
     "image": "it_l6_leone.png",
     "ammo": [
       "20mm_Breda_APHE",
@@ -8561,7 +8561,7 @@
     "name": "M3A3 (Italy)",
     "country": "Italy",
     "role": "Light Tank",
-    "weapons_default": "it_m3a3_stuart_default",
+    "weapons_default": "cn_m3a3_stuart_default",
     "image": "it_m3a3_stuart.png",
     "ammo": [
       "37mm_usa_m3_APC"
@@ -8831,7 +8831,7 @@
     "name": "M43 'G.C.Leoncello' (Italy)",
     "country": "Italy",
     "role": "Tank Destroyer",
-    "weapons_default": "it_semovente_m43_105_leoncello_default",
+    "weapons_default": "it_semovente_m43_105_default",
     "image": "it_semovente_m43_105_leoncello.png",
     "ammo": [
       "105mm_Perforante_APC",
@@ -11093,7 +11093,7 @@
     "name": "OF-40 (MTCA) (Italy)",
     "country": "Italy",
     "role": "Medium Tank",
-    "weapons_default": "it_of_40_mtca_default",
+    "weapons_default": "it_of_40_mk_2a_default",
     "image": "it_of_40_mtca.png",
     "ammo": [
       "105mm_DM33_APDS_FS",
@@ -11176,7 +11176,7 @@
     "name": "Osa-AK (Germany)",
     "country": "Germany",
     "role": "SPAA",
-    "weapons_default": "germ_9a33bm3_default",
+    "weapons_default": "ussr_9a33bm3_default",
     "image": "germ_9a33bm3.png",
     "ammo": [
       "209mm_9M33A3_aam"
@@ -11204,7 +11204,7 @@
     "name": "Osa-AKM (Italy)",
     "country": "Italy",
     "role": "SPAA",
-    "weapons_default": "it_9a33bm3_default",
+    "weapons_default": "ussr_9a33bm3_default",
     "image": "it_9a33bm3.png",
     "ammo": [
       "209mm_9M33A3_aam"
@@ -11357,7 +11357,7 @@
     "name": "P40 (Italy)",
     "country": "Italy",
     "role": "Medium Tank",
-    "weapons_default": "it_p_40_default",
+    "weapons_default": "it_p_26_40_default",
     "image": "it_p_40.png",
     "ammo": [
       "75mm_75_32_APCBC",
@@ -12363,7 +12363,7 @@
     "name": "Pz.III N (Italy)",
     "country": "Italy",
     "role": "Medium Tank",
-    "weapons_default": "it_pzkpfw_iii_ausf_n_default",
+    "weapons_default": "it_pzkpfw_III_ausf_N_default",
     "image": "it_pzkpfw_iii_ausf_n.png",
     "ammo": [
       "75mm_ger_Smoke",
@@ -12481,7 +12481,7 @@
     "name": "Pz.IV G (Italy)",
     "country": "Italy",
     "role": "Medium Tank",
-    "weapons_default": "it_pzkpfw_iv_ausf_g_default",
+    "weapons_default": "it_pzkpfw_IV_ausf_G_default",
     "image": "it_pzkpfw_iv_ausf_g.png",
     "ammo": [
       "75mm_ger_Smoke",
@@ -13583,11 +13583,11 @@
     }
   },
   {
-    "ID": "it_sherman_vii",
+    "ID": "it_sherman_VII",
     "name": "Sherman Ic (Italy)",
     "country": "Italy",
     "role": "Medium Tank",
-    "weapons_default": "it_sherman_vii_default",
+    "weapons_default": "it_sherman_VII_default",
     "image": "it_sherman_vii.png",
     "ammo": [
       "76mm_britain_17pdr_APC",
@@ -14809,11 +14809,11 @@
     }
   },
   {
-    "ID": "it_stug_iii_ausf_g",
+    "ID": "it_stug_III_ausf_G",
     "name": "StuG III G (Italy)",
     "country": "Italy",
     "role": "Tank Destroyer",
-    "weapons_default": "it_stug_iii_ausf_g_default",
+    "weapons_default": "it_stug_III_ausf_G_default",
     "image": "it_stug_iii_ausf_g.png",
     "ammo": [
       "75mm_ger_Smoke",
@@ -16333,7 +16333,7 @@
     "name": "T-72M1 (Italy)",
     "country": "Italy",
     "role": "Medium Tank",
-    "weapons_default": "it_t_72m1_default",
+    "weapons_default": "germ_kpz_t72m1_default",
     "image": "it_t_72m1.png",
     "ammo": [
       "125mm_ussr_3BM12_APDS_FS",
@@ -19266,7 +19266,7 @@
     "name": "ZSU-23-4 (Italy)",
     "country": "Italy",
     "role": "SPAA",
-    "weapons_default": "it_zsu_23_4_default",
+    "weapons_default": "ussr_zsu_23_4_default",
     "image": "it_zsu_23_4.png",
     "ammo": [
       "23mm_ussr_APIT",

@@ -1,11 +1,13 @@
 {
-    "version": "2.4",
+    "version": "2.5",
     "notes": [
-        "Added Crash Log system — errors are saved to Logs/ and reported automatically",
-        "Added Ground Weapon Override — equip any ground vehicle's weapons",
-        "Added Naval Weapon Override — equip any ship's weapons on a ground vehicle",
-        "Added Aircraft Weapon Override — equip bombs, missiles and rockets from aircraft and helicopters",
-        "Ammo Loadout is locked when any weapon override is active",
-        "Fixed Bugs and Issues"
+        "Added Velocity Override — change projectile speed for any weapon override",
+        "Added Caliber Override — change projectile diameter (0.01m up to 10m)",
+        "Added Moving Target slot (Target_06) to Ground Targets tab",
+        "Added Naval Target slot (Ship_Target) to Air & Naval Target tab",
+        "Added rotation dials for all three ground targets (300m, 600m, 800m)",
+        "Experimental tab now contains Performance Override and Weapon Override sub-tabs",
+        "Moving Target and Naval Target included in presets, random and debug logs",
+        "Fixed velocity override not detecting speed changes after first apply"
     ]
 }

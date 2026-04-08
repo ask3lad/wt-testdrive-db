@@ -1,14 +1,11 @@
 {
-    "version": 3.495,
-    "date": "07 April 2026",
-    "time": "09:24pm",
+    "version": 3.5,
+    "date": "08 April 2026",
+    "time": "10:12pm",
     "notes": [
         "Tank database: updated (total: 1,190)",
         "Aircraft database: updated (total: 1,306)",
         "Helicopter database: updated (total: 111)",
-        "Ship database: updated (total: 564)",
-        "Added Ground Weapons database",
-        "Added Naval Weapons database",
-        "Added Aircraft Weapons database"
+        "Ship database: updated (total: 564)"
     ]
 }
