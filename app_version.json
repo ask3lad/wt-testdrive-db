@@ -1,13 +1,15 @@
 {
-    "version": "2.5",
+    "version": "2.51",
     "notes": [
-        "Added Velocity Override — change projectile speed for any weapon override",
-        "Added Caliber Override — change projectile diameter (0.01m up to 10m)",
-        "Added Moving Target slot (Target_06) to Ground Targets tab",
-        "Added Naval Target slot (Ship_Target) to Air & Naval Target tab",
-        "Added rotation dials for all three ground targets (300m, 600m, 800m)",
-        "Experimental tab now contains Performance Override and Weapon Override sub-tabs",
-        "Moving Target and Naval Target included in presets, random and debug logs",
-        "Fixed velocity override not detecting speed changes after first apply"
+        "Presets now save and restore rotation dials, engine override, rapid fire, weapon override, velocity and caliber",
+        "Fixed weapon override locking custom ammo — ammo resets to stock when override is enabled",
+        "Fixed Naval Target (Ship_Target) showing raw ID instead of vehicle name on startup",
+        "Added red warning label on Vehicle tab when Weapon Override is active",
+        "Added [Debug] Open Weapon Override Folder to File menu",
+        "Added [Debug] War Thunder Datamine GitHub to File menu",
+        "Renamed Shooters tab to Bombarding Ships",
+        "Reduced preview images from 150x150 to 120x120",
+        "Minimum window height raised to 900 to fit Ground Targets tab on 1080p",
+        "Fixed crash log and debug log writing to temp folder when running as exe"
     ]
 }
